@@ -1,0 +1,5598 @@
+.mc {
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.mc-sm { width: 1rem; height: 1rem; }
+.mc     { width: 1.5rem; height: 1.5rem; }
+.mc-xl  { width: 2rem; height: 2rem; }
+.mc-2xl { width: 2.5rem; height: 2.5rem; }
+.mc-3xl { width: 3rem; height: 3rem; }
+.mc-4xl { width: 4rem; height: 4rem; }
+.mc-5xl { width: 5rem; height: 5rem; }
+
+.mc-acacia-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_boat.png');
+}
+
+.mc-acacia-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_button.png');
+}
+
+.mc-acacia-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_chest_boat.png');
+}
+
+.mc-acacia-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_door.png');
+}
+
+.mc-acacia-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_fence.png');
+}
+
+.mc-acacia-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_fence_gate.png');
+}
+
+.mc-acacia-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_hanging_sign.png');
+}
+
+.mc-acacia-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_leaves.png');
+}
+
+.mc-acacia-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_log.png');
+}
+
+.mc-acacia-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_planks.png');
+}
+
+.mc-acacia-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_pressure_plate.png');
+}
+
+.mc-acacia-sapling {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_sapling.png');
+}
+
+.mc-acacia-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_sign.png');
+}
+
+.mc-acacia-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_slab.png');
+}
+
+.mc-acacia-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_stairs.png');
+}
+
+.mc-acacia-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_trapdoor.png');
+}
+
+.mc-acacia-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_acacia_wood.png');
+}
+
+.mc-activator-rail {
+  background-image: url('/vendor/mcicons/icons/minecraft_activator_rail.png');
+}
+
+.mc-air {
+  background-image: url('/vendor/mcicons/icons/minecraft_air.png');
+}
+
+.mc-allay-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_allay_spawn_egg.png');
+}
+
+.mc-allium {
+  background-image: url('/vendor/mcicons/icons/minecraft_allium.png');
+}
+
+.mc-amethyst-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_amethyst_block.png');
+}
+
+.mc-amethyst-cluster {
+  background-image: url('/vendor/mcicons/icons/minecraft_amethyst_cluster.png');
+}
+
+.mc-amethyst-shard {
+  background-image: url('/vendor/mcicons/icons/minecraft_amethyst_shard.png');
+}
+
+.mc-ancient-debris {
+  background-image: url('/vendor/mcicons/icons/minecraft_ancient_debris.png');
+}
+
+.mc-andesite {
+  background-image: url('/vendor/mcicons/icons/minecraft_andesite.png');
+}
+
+.mc-andesite-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_andesite_slab.png');
+}
+
+.mc-andesite-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_andesite_stairs.png');
+}
+
+.mc-andesite-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_andesite_wall.png');
+}
+
+.mc-angler-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_angler_pottery_sherd.png');
+}
+
+.mc-anvil {
+  background-image: url('/vendor/mcicons/icons/minecraft_anvil.png');
+}
+
+.mc-apple {
+  background-image: url('/vendor/mcicons/icons/minecraft_apple.png');
+}
+
+.mc-archer-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_archer_pottery_sherd.png');
+}
+
+.mc-armadillo-scute {
+  background-image: url('/vendor/mcicons/icons/minecraft_armadillo_scute.png');
+}
+
+.mc-armadillo-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_armadillo_spawn_egg.png');
+}
+
+.mc-armor-stand {
+  background-image: url('/vendor/mcicons/icons/minecraft_armor_stand.png');
+}
+
+.mc-arms-up-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_arms_up_pottery_sherd.png');
+}
+
+.mc-arrow {
+  background-image: url('/vendor/mcicons/icons/minecraft_arrow.png');
+}
+
+.mc-axolotl-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_axolotl_bucket.png');
+}
+
+.mc-axolotl-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_axolotl_spawn_egg.png');
+}
+
+.mc-azalea {
+  background-image: url('/vendor/mcicons/icons/minecraft_azalea.png');
+}
+
+.mc-azalea-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_azalea_leaves.png');
+}
+
+.mc-azure-bluet {
+  background-image: url('/vendor/mcicons/icons/minecraft_azure_bluet.png');
+}
+
+.mc-baked-potato {
+  background-image: url('/vendor/mcicons/icons/minecraft_baked_potato.png');
+}
+
+.mc-bamboo {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo.png');
+}
+
+.mc-bamboo-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_block.png');
+}
+
+.mc-bamboo-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_button.png');
+}
+
+.mc-bamboo-chest-raft {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_chest_raft.png');
+}
+
+.mc-bamboo-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_door.png');
+}
+
+.mc-bamboo-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_fence.png');
+}
+
+.mc-bamboo-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_fence_gate.png');
+}
+
+.mc-bamboo-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_hanging_sign.png');
+}
+
+.mc-bamboo-mosaic {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_mosaic.png');
+}
+
+.mc-bamboo-mosaic-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_mosaic_slab.png');
+}
+
+.mc-bamboo-mosaic-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_mosaic_stairs.png');
+}
+
+.mc-bamboo-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_planks.png');
+}
+
+.mc-bamboo-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_pressure_plate.png');
+}
+
+.mc-bamboo-raft {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_raft.png');
+}
+
+.mc-bamboo-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_sign.png');
+}
+
+.mc-bamboo-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_slab.png');
+}
+
+.mc-bamboo-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_stairs.png');
+}
+
+.mc-bamboo-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_bamboo_trapdoor.png');
+}
+
+.mc-barrel {
+  background-image: url('/vendor/mcicons/icons/minecraft_barrel.png');
+}
+
+.mc-barrier {
+  background-image: url('/vendor/mcicons/icons/minecraft_barrier.png');
+}
+
+.mc-basalt {
+  background-image: url('/vendor/mcicons/icons/minecraft_basalt.png');
+}
+
+.mc-bat-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_bat_spawn_egg.png');
+}
+
+.mc-beacon {
+  background-image: url('/vendor/mcicons/icons/minecraft_beacon.png');
+}
+
+.mc-bedrock {
+  background-image: url('/vendor/mcicons/icons/minecraft_bedrock.png');
+}
+
+.mc-bee-nest {
+  background-image: url('/vendor/mcicons/icons/minecraft_bee_nest.png');
+}
+
+.mc-bee-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_bee_spawn_egg.png');
+}
+
+.mc-beef {
+  background-image: url('/vendor/mcicons/icons/minecraft_beef.png');
+}
+
+.mc-beehive {
+  background-image: url('/vendor/mcicons/icons/minecraft_beehive.png');
+}
+
+.mc-beetroot {
+  background-image: url('/vendor/mcicons/icons/minecraft_beetroot.png');
+}
+
+.mc-beetroot-seeds {
+  background-image: url('/vendor/mcicons/icons/minecraft_beetroot_seeds.png');
+}
+
+.mc-beetroot-soup {
+  background-image: url('/vendor/mcicons/icons/minecraft_beetroot_soup.png');
+}
+
+.mc-bell {
+  background-image: url('/vendor/mcicons/icons/minecraft_bell.png');
+}
+
+.mc-big-dripleaf {
+  background-image: url('/vendor/mcicons/icons/minecraft_big_dripleaf.png');
+}
+
+.mc-birch-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_boat.png');
+}
+
+.mc-birch-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_button.png');
+}
+
+.mc-birch-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_chest_boat.png');
+}
+
+.mc-birch-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_door.png');
+}
+
+.mc-birch-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_fence.png');
+}
+
+.mc-birch-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_fence_gate.png');
+}
+
+.mc-birch-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_hanging_sign.png');
+}
+
+.mc-birch-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_leaves.png');
+}
+
+.mc-birch-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_log.png');
+}
+
+.mc-birch-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_planks.png');
+}
+
+.mc-birch-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_pressure_plate.png');
+}
+
+.mc-birch-sapling {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_sapling.png');
+}
+
+.mc-birch-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_sign.png');
+}
+
+.mc-birch-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_slab.png');
+}
+
+.mc-birch-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_stairs.png');
+}
+
+.mc-birch-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_trapdoor.png');
+}
+
+.mc-birch-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_birch_wood.png');
+}
+
+.mc-black-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_banner.png');
+}
+
+.mc-black-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_bed.png');
+}
+
+.mc-black-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_bundle.png');
+}
+
+.mc-black-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_candle.png');
+}
+
+.mc-black-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_carpet.png');
+}
+
+.mc-black-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_concrete.png');
+}
+
+.mc-black-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_concrete_powder.png');
+}
+
+.mc-black-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_dye.png');
+}
+
+.mc-black-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_glazed_terracotta.png');
+}
+
+.mc-black-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_shulker_box.png');
+}
+
+.mc-black-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_stained_glass.png');
+}
+
+.mc-black-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_stained_glass_pane.png');
+}
+
+.mc-black-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_terracotta.png');
+}
+
+.mc-black-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_black_wool.png');
+}
+
+.mc-blackstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_blackstone.png');
+}
+
+.mc-blackstone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_blackstone_slab.png');
+}
+
+.mc-blackstone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_blackstone_stairs.png');
+}
+
+.mc-blackstone-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_blackstone_wall.png');
+}
+
+.mc-blade-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_blade_pottery_sherd.png');
+}
+
+.mc-blast-furnace {
+  background-image: url('/vendor/mcicons/icons/minecraft_blast_furnace.png');
+}
+
+.mc-blaze-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_blaze_powder.png');
+}
+
+.mc-blaze-rod {
+  background-image: url('/vendor/mcicons/icons/minecraft_blaze_rod.png');
+}
+
+.mc-blaze-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_blaze_spawn_egg.png');
+}
+
+.mc-blue-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_banner.png');
+}
+
+.mc-blue-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_bed.png');
+}
+
+.mc-blue-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_bundle.png');
+}
+
+.mc-blue-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_candle.png');
+}
+
+.mc-blue-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_carpet.png');
+}
+
+.mc-blue-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_concrete.png');
+}
+
+.mc-blue-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_concrete_powder.png');
+}
+
+.mc-blue-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_dye.png');
+}
+
+.mc-blue-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_egg.png');
+}
+
+.mc-blue-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_glazed_terracotta.png');
+}
+
+.mc-blue-ice {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_ice.png');
+}
+
+.mc-blue-orchid {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_orchid.png');
+}
+
+.mc-blue-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_shulker_box.png');
+}
+
+.mc-blue-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_stained_glass.png');
+}
+
+.mc-blue-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_stained_glass_pane.png');
+}
+
+.mc-blue-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_terracotta.png');
+}
+
+.mc-blue-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_blue_wool.png');
+}
+
+.mc-bogged-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_bogged_spawn_egg.png');
+}
+
+.mc-bolt-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_bolt_armor_trim_smithing_template.png');
+}
+
+.mc-bone {
+  background-image: url('/vendor/mcicons/icons/minecraft_bone.png');
+}
+
+.mc-bone-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_bone_block.png');
+}
+
+.mc-bone-meal {
+  background-image: url('/vendor/mcicons/icons/minecraft_bone_meal.png');
+}
+
+.mc-book {
+  background-image: url('/vendor/mcicons/icons/minecraft_book.png');
+}
+
+.mc-bookshelf {
+  background-image: url('/vendor/mcicons/icons/minecraft_bookshelf.png');
+}
+
+.mc-bordure-indented-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_bordure_indented_banner_pattern.png');
+}
+
+.mc-bow {
+  background-image: url('/vendor/mcicons/icons/minecraft_bow.png');
+}
+
+.mc-bowl {
+  background-image: url('/vendor/mcicons/icons/minecraft_bowl.png');
+}
+
+.mc-brain-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_brain_coral.png');
+}
+
+.mc-brain-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_brain_coral_block.png');
+}
+
+.mc-brain-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_brain_coral_fan.png');
+}
+
+.mc-bread {
+  background-image: url('/vendor/mcicons/icons/minecraft_bread.png');
+}
+
+.mc-breeze-rod {
+  background-image: url('/vendor/mcicons/icons/minecraft_breeze_rod.png');
+}
+
+.mc-breeze-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_breeze_spawn_egg.png');
+}
+
+.mc-brewer-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_brewer_pottery_sherd.png');
+}
+
+.mc-brewing-stand {
+  background-image: url('/vendor/mcicons/icons/minecraft_brewing_stand.png');
+}
+
+.mc-brick {
+  background-image: url('/vendor/mcicons/icons/minecraft_brick.png');
+}
+
+.mc-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_brick_slab.png');
+}
+
+.mc-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_brick_stairs.png');
+}
+
+.mc-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_brick_wall.png');
+}
+
+.mc-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_bricks.png');
+}
+
+.mc-brown-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_banner.png');
+}
+
+.mc-brown-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_bed.png');
+}
+
+.mc-brown-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_bundle.png');
+}
+
+.mc-brown-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_candle.png');
+}
+
+.mc-brown-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_carpet.png');
+}
+
+.mc-brown-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_concrete.png');
+}
+
+.mc-brown-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_concrete_powder.png');
+}
+
+.mc-brown-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_dye.png');
+}
+
+.mc-brown-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_egg.png');
+}
+
+.mc-brown-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_glazed_terracotta.png');
+}
+
+.mc-brown-mushroom {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_mushroom.png');
+}
+
+.mc-brown-mushroom-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_mushroom_block.png');
+}
+
+.mc-brown-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_shulker_box.png');
+}
+
+.mc-brown-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_stained_glass.png');
+}
+
+.mc-brown-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_stained_glass_pane.png');
+}
+
+.mc-brown-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_terracotta.png');
+}
+
+.mc-brown-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_brown_wool.png');
+}
+
+.mc-brush {
+  background-image: url('/vendor/mcicons/icons/minecraft_brush.png');
+}
+
+.mc-bubble-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_bubble_coral.png');
+}
+
+.mc-bubble-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_bubble_coral_block.png');
+}
+
+.mc-bubble-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_bubble_coral_fan.png');
+}
+
+.mc-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_bucket.png');
+}
+
+.mc-budding-amethyst {
+  background-image: url('/vendor/mcicons/icons/minecraft_budding_amethyst.png');
+}
+
+.mc-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_bundle.png');
+}
+
+.mc-burn-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_burn_pottery_sherd.png');
+}
+
+.mc-bush {
+  background-image: url('/vendor/mcicons/icons/minecraft_bush.png');
+}
+
+.mc-cactus {
+  background-image: url('/vendor/mcicons/icons/minecraft_cactus.png');
+}
+
+.mc-cactus-flower {
+  background-image: url('/vendor/mcicons/icons/minecraft_cactus_flower.png');
+}
+
+.mc-cake {
+  background-image: url('/vendor/mcicons/icons/minecraft_cake.png');
+}
+
+.mc-calcite {
+  background-image: url('/vendor/mcicons/icons/minecraft_calcite.png');
+}
+
+.mc-calibrated-sculk-sensor {
+  background-image: url('/vendor/mcicons/icons/minecraft_calibrated_sculk_sensor.png');
+}
+
+.mc-camel-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_camel_spawn_egg.png');
+}
+
+.mc-campfire {
+  background-image: url('/vendor/mcicons/icons/minecraft_campfire.png');
+}
+
+.mc-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_candle.png');
+}
+
+.mc-carrot {
+  background-image: url('/vendor/mcicons/icons/minecraft_carrot.png');
+}
+
+.mc-carrot-on-a-stick {
+  background-image: url('/vendor/mcicons/icons/minecraft_carrot_on_a_stick.png');
+}
+
+.mc-cartography-table {
+  background-image: url('/vendor/mcicons/icons/minecraft_cartography_table.png');
+}
+
+.mc-carved-pumpkin {
+  background-image: url('/vendor/mcicons/icons/minecraft_carved_pumpkin.png');
+}
+
+.mc-cat-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_cat_spawn_egg.png');
+}
+
+.mc-cauldron {
+  background-image: url('/vendor/mcicons/icons/minecraft_cauldron.png');
+}
+
+.mc-cave-spider-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_cave_spider_spawn_egg.png');
+}
+
+.mc-chain {
+  background-image: url('/vendor/mcicons/icons/minecraft_chain.png');
+}
+
+.mc-chain-command-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_chain_command_block.png');
+}
+
+.mc-chainmail-boots {
+  background-image: url('/vendor/mcicons/icons/minecraft_chainmail_boots.png');
+}
+
+.mc-chainmail-chestplate {
+  background-image: url('/vendor/mcicons/icons/minecraft_chainmail_chestplate.png');
+}
+
+.mc-chainmail-helmet {
+  background-image: url('/vendor/mcicons/icons/minecraft_chainmail_helmet.png');
+}
+
+.mc-chainmail-leggings {
+  background-image: url('/vendor/mcicons/icons/minecraft_chainmail_leggings.png');
+}
+
+.mc-charcoal {
+  background-image: url('/vendor/mcicons/icons/minecraft_charcoal.png');
+}
+
+.mc-cherry-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_boat.png');
+}
+
+.mc-cherry-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_button.png');
+}
+
+.mc-cherry-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_chest_boat.png');
+}
+
+.mc-cherry-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_door.png');
+}
+
+.mc-cherry-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_fence.png');
+}
+
+.mc-cherry-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_fence_gate.png');
+}
+
+.mc-cherry-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_hanging_sign.png');
+}
+
+.mc-cherry-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_leaves.png');
+}
+
+.mc-cherry-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_log.png');
+}
+
+.mc-cherry-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_planks.png');
+}
+
+.mc-cherry-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_pressure_plate.png');
+}
+
+.mc-cherry-sapling {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_sapling.png');
+}
+
+.mc-cherry-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_sign.png');
+}
+
+.mc-cherry-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_slab.png');
+}
+
+.mc-cherry-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_stairs.png');
+}
+
+.mc-cherry-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_trapdoor.png');
+}
+
+.mc-cherry-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_cherry_wood.png');
+}
+
+.mc-chest {
+  background-image: url('/vendor/mcicons/icons/minecraft_chest.png');
+}
+
+.mc-chest-minecart {
+  background-image: url('/vendor/mcicons/icons/minecraft_chest_minecart.png');
+}
+
+.mc-chicken {
+  background-image: url('/vendor/mcicons/icons/minecraft_chicken.png');
+}
+
+.mc-chicken-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_chicken_spawn_egg.png');
+}
+
+.mc-chipped-anvil {
+  background-image: url('/vendor/mcicons/icons/minecraft_chipped_anvil.png');
+}
+
+.mc-chiseled-bookshelf {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_bookshelf.png');
+}
+
+.mc-chiseled-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_copper.png');
+}
+
+.mc-chiseled-deepslate {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_deepslate.png');
+}
+
+.mc-chiseled-nether-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_nether_bricks.png');
+}
+
+.mc-chiseled-polished-blackstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_polished_blackstone.png');
+}
+
+.mc-chiseled-quartz-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_quartz_block.png');
+}
+
+.mc-chiseled-red-sandstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_red_sandstone.png');
+}
+
+.mc-chiseled-resin-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_resin_bricks.png');
+}
+
+.mc-chiseled-sandstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_sandstone.png');
+}
+
+.mc-chiseled-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_stone_bricks.png');
+}
+
+.mc-chiseled-tuff {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_tuff.png');
+}
+
+.mc-chiseled-tuff-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_chiseled_tuff_bricks.png');
+}
+
+.mc-chorus-flower {
+  background-image: url('/vendor/mcicons/icons/minecraft_chorus_flower.png');
+}
+
+.mc-chorus-fruit {
+  background-image: url('/vendor/mcicons/icons/minecraft_chorus_fruit.png');
+}
+
+.mc-chorus-plant {
+  background-image: url('/vendor/mcicons/icons/minecraft_chorus_plant.png');
+}
+
+.mc-clay {
+  background-image: url('/vendor/mcicons/icons/minecraft_clay.png');
+}
+
+.mc-clay-ball {
+  background-image: url('/vendor/mcicons/icons/minecraft_clay_ball.png');
+}
+
+.mc-clock {
+  background-image: url('/vendor/mcicons/icons/minecraft_clock.png');
+}
+
+.mc-closed-eyeblossom {
+  background-image: url('/vendor/mcicons/icons/minecraft_closed_eyeblossom.png');
+}
+
+.mc-coal {
+  background-image: url('/vendor/mcicons/icons/minecraft_coal.png');
+}
+
+.mc-coal-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_coal_block.png');
+}
+
+.mc-coal-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_coal_ore.png');
+}
+
+.mc-coarse-dirt {
+  background-image: url('/vendor/mcicons/icons/minecraft_coarse_dirt.png');
+}
+
+.mc-coast-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_coast_armor_trim_smithing_template.png');
+}
+
+.mc-cobbled-deepslate {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobbled_deepslate.png');
+}
+
+.mc-cobbled-deepslate-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobbled_deepslate_slab.png');
+}
+
+.mc-cobbled-deepslate-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobbled_deepslate_stairs.png');
+}
+
+.mc-cobbled-deepslate-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobbled_deepslate_wall.png');
+}
+
+.mc-cobblestone {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobblestone.png');
+}
+
+.mc-cobblestone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobblestone_slab.png');
+}
+
+.mc-cobblestone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobblestone_stairs.png');
+}
+
+.mc-cobblestone-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobblestone_wall.png');
+}
+
+.mc-cobweb {
+  background-image: url('/vendor/mcicons/icons/minecraft_cobweb.png');
+}
+
+.mc-cocoa-beans {
+  background-image: url('/vendor/mcicons/icons/minecraft_cocoa_beans.png');
+}
+
+.mc-cod {
+  background-image: url('/vendor/mcicons/icons/minecraft_cod.png');
+}
+
+.mc-cod-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_cod_bucket.png');
+}
+
+.mc-cod-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_cod_spawn_egg.png');
+}
+
+.mc-command-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_command_block.png');
+}
+
+.mc-command-block-minecart {
+  background-image: url('/vendor/mcicons/icons/minecraft_command_block_minecart.png');
+}
+
+.mc-comparator {
+  background-image: url('/vendor/mcicons/icons/minecraft_comparator.png');
+}
+
+.mc-compass {
+  background-image: url('/vendor/mcicons/icons/minecraft_compass.png');
+}
+
+.mc-composter {
+  background-image: url('/vendor/mcicons/icons/minecraft_composter.png');
+}
+
+.mc-conduit {
+  background-image: url('/vendor/mcicons/icons/minecraft_conduit.png');
+}
+
+.mc-cooked-beef {
+  background-image: url('/vendor/mcicons/icons/minecraft_cooked_beef.png');
+}
+
+.mc-cooked-chicken {
+  background-image: url('/vendor/mcicons/icons/minecraft_cooked_chicken.png');
+}
+
+.mc-cooked-cod {
+  background-image: url('/vendor/mcicons/icons/minecraft_cooked_cod.png');
+}
+
+.mc-cooked-mutton {
+  background-image: url('/vendor/mcicons/icons/minecraft_cooked_mutton.png');
+}
+
+.mc-cooked-porkchop {
+  background-image: url('/vendor/mcicons/icons/minecraft_cooked_porkchop.png');
+}
+
+.mc-cooked-rabbit {
+  background-image: url('/vendor/mcicons/icons/minecraft_cooked_rabbit.png');
+}
+
+.mc-cooked-salmon {
+  background-image: url('/vendor/mcicons/icons/minecraft_cooked_salmon.png');
+}
+
+.mc-cookie {
+  background-image: url('/vendor/mcicons/icons/minecraft_cookie.png');
+}
+
+.mc-copper-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_copper_block.png');
+}
+
+.mc-copper-bulb {
+  background-image: url('/vendor/mcicons/icons/minecraft_copper_bulb.png');
+}
+
+.mc-copper-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_copper_door.png');
+}
+
+.mc-copper-grate {
+  background-image: url('/vendor/mcicons/icons/minecraft_copper_grate.png');
+}
+
+.mc-copper-ingot {
+  background-image: url('/vendor/mcicons/icons/minecraft_copper_ingot.png');
+}
+
+.mc-copper-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_copper_ore.png');
+}
+
+.mc-copper-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_copper_trapdoor.png');
+}
+
+.mc-cornflower {
+  background-image: url('/vendor/mcicons/icons/minecraft_cornflower.png');
+}
+
+.mc-cow-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_cow_spawn_egg.png');
+}
+
+.mc-cracked-deepslate-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_cracked_deepslate_bricks.png');
+}
+
+.mc-cracked-deepslate-tiles {
+  background-image: url('/vendor/mcicons/icons/minecraft_cracked_deepslate_tiles.png');
+}
+
+.mc-cracked-nether-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_cracked_nether_bricks.png');
+}
+
+.mc-cracked-polished-blackstone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_cracked_polished_blackstone_bricks.png');
+}
+
+.mc-cracked-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_cracked_stone_bricks.png');
+}
+
+.mc-crafter {
+  background-image: url('/vendor/mcicons/icons/minecraft_crafter.png');
+}
+
+.mc-crafting-table {
+  background-image: url('/vendor/mcicons/icons/minecraft_crafting_table.png');
+}
+
+.mc-creaking-heart {
+  background-image: url('/vendor/mcicons/icons/minecraft_creaking_heart.png');
+}
+
+.mc-creaking-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_creaking_spawn_egg.png');
+}
+
+.mc-creeper-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_creeper_banner_pattern.png');
+}
+
+.mc-creeper-head {
+  background-image: url('/vendor/mcicons/icons/minecraft_creeper_head.png');
+}
+
+.mc-creeper-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_creeper_spawn_egg.png');
+}
+
+.mc-crimson-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_button.png');
+}
+
+.mc-crimson-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_door.png');
+}
+
+.mc-crimson-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_fence.png');
+}
+
+.mc-crimson-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_fence_gate.png');
+}
+
+.mc-crimson-fungus {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_fungus.png');
+}
+
+.mc-crimson-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_hanging_sign.png');
+}
+
+.mc-crimson-hyphae {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_hyphae.png');
+}
+
+.mc-crimson-nylium {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_nylium.png');
+}
+
+.mc-crimson-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_planks.png');
+}
+
+.mc-crimson-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_pressure_plate.png');
+}
+
+.mc-crimson-roots {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_roots.png');
+}
+
+.mc-crimson-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_sign.png');
+}
+
+.mc-crimson-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_slab.png');
+}
+
+.mc-crimson-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_stairs.png');
+}
+
+.mc-crimson-stem {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_stem.png');
+}
+
+.mc-crimson-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_crimson_trapdoor.png');
+}
+
+.mc-crossbow {
+  background-image: url('/vendor/mcicons/icons/minecraft_crossbow.png');
+}
+
+.mc-crying-obsidian {
+  background-image: url('/vendor/mcicons/icons/minecraft_crying_obsidian.png');
+}
+
+.mc-cut-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_cut_copper.png');
+}
+
+.mc-cut-copper-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_cut_copper_slab.png');
+}
+
+.mc-cut-copper-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_cut_copper_stairs.png');
+}
+
+.mc-cut-red-sandstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_cut_red_sandstone.png');
+}
+
+.mc-cut-red-sandstone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_cut_red_sandstone_slab.png');
+}
+
+.mc-cut-sandstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_cut_sandstone.png');
+}
+
+.mc-cut-sandstone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_cut_sandstone_slab.png');
+}
+
+.mc-cyan-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_banner.png');
+}
+
+.mc-cyan-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_bed.png');
+}
+
+.mc-cyan-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_bundle.png');
+}
+
+.mc-cyan-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_candle.png');
+}
+
+.mc-cyan-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_carpet.png');
+}
+
+.mc-cyan-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_concrete.png');
+}
+
+.mc-cyan-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_concrete_powder.png');
+}
+
+.mc-cyan-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_dye.png');
+}
+
+.mc-cyan-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_glazed_terracotta.png');
+}
+
+.mc-cyan-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_shulker_box.png');
+}
+
+.mc-cyan-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_stained_glass.png');
+}
+
+.mc-cyan-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_stained_glass_pane.png');
+}
+
+.mc-cyan-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_terracotta.png');
+}
+
+.mc-cyan-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_cyan_wool.png');
+}
+
+.mc-damaged-anvil {
+  background-image: url('/vendor/mcicons/icons/minecraft_damaged_anvil.png');
+}
+
+.mc-dandelion {
+  background-image: url('/vendor/mcicons/icons/minecraft_dandelion.png');
+}
+
+.mc-danger-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_danger_pottery_sherd.png');
+}
+
+.mc-dark-oak-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_boat.png');
+}
+
+.mc-dark-oak-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_button.png');
+}
+
+.mc-dark-oak-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_chest_boat.png');
+}
+
+.mc-dark-oak-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_door.png');
+}
+
+.mc-dark-oak-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_fence.png');
+}
+
+.mc-dark-oak-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_fence_gate.png');
+}
+
+.mc-dark-oak-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_hanging_sign.png');
+}
+
+.mc-dark-oak-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_leaves.png');
+}
+
+.mc-dark-oak-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_log.png');
+}
+
+.mc-dark-oak-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_planks.png');
+}
+
+.mc-dark-oak-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_pressure_plate.png');
+}
+
+.mc-dark-oak-sapling {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_sapling.png');
+}
+
+.mc-dark-oak-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_sign.png');
+}
+
+.mc-dark-oak-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_slab.png');
+}
+
+.mc-dark-oak-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_stairs.png');
+}
+
+.mc-dark-oak-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_trapdoor.png');
+}
+
+.mc-dark-oak-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_oak_wood.png');
+}
+
+.mc-dark-prismarine {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_prismarine.png');
+}
+
+.mc-dark-prismarine-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_prismarine_slab.png');
+}
+
+.mc-dark-prismarine-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_dark_prismarine_stairs.png');
+}
+
+.mc-daylight-detector {
+  background-image: url('/vendor/mcicons/icons/minecraft_daylight_detector.png');
+}
+
+.mc-dead-brain-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_brain_coral.png');
+}
+
+.mc-dead-brain-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_brain_coral_block.png');
+}
+
+.mc-dead-brain-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_brain_coral_fan.png');
+}
+
+.mc-dead-bubble-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_bubble_coral.png');
+}
+
+.mc-dead-bubble-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_bubble_coral_block.png');
+}
+
+.mc-dead-bubble-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_bubble_coral_fan.png');
+}
+
+.mc-dead-bush {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_bush.png');
+}
+
+.mc-dead-fire-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_fire_coral.png');
+}
+
+.mc-dead-fire-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_fire_coral_block.png');
+}
+
+.mc-dead-fire-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_fire_coral_fan.png');
+}
+
+.mc-dead-horn-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_horn_coral.png');
+}
+
+.mc-dead-horn-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_horn_coral_block.png');
+}
+
+.mc-dead-horn-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_horn_coral_fan.png');
+}
+
+.mc-dead-tube-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_tube_coral.png');
+}
+
+.mc-dead-tube-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_tube_coral_block.png');
+}
+
+.mc-dead-tube-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_dead_tube_coral_fan.png');
+}
+
+.mc-debug-stick {
+  background-image: url('/vendor/mcicons/icons/minecraft_debug_stick.png');
+}
+
+.mc-decorated-pot {
+  background-image: url('/vendor/mcicons/icons/minecraft_decorated_pot.png');
+}
+
+.mc-deepslate {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate.png');
+}
+
+.mc-deepslate-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_brick_slab.png');
+}
+
+.mc-deepslate-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_brick_stairs.png');
+}
+
+.mc-deepslate-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_brick_wall.png');
+}
+
+.mc-deepslate-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_bricks.png');
+}
+
+.mc-deepslate-coal-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_coal_ore.png');
+}
+
+.mc-deepslate-copper-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_copper_ore.png');
+}
+
+.mc-deepslate-diamond-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_diamond_ore.png');
+}
+
+.mc-deepslate-emerald-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_emerald_ore.png');
+}
+
+.mc-deepslate-gold-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_gold_ore.png');
+}
+
+.mc-deepslate-iron-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_iron_ore.png');
+}
+
+.mc-deepslate-lapis-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_lapis_ore.png');
+}
+
+.mc-deepslate-redstone-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_redstone_ore.png');
+}
+
+.mc-deepslate-tile-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_tile_slab.png');
+}
+
+.mc-deepslate-tile-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_tile_stairs.png');
+}
+
+.mc-deepslate-tile-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_tile_wall.png');
+}
+
+.mc-deepslate-tiles {
+  background-image: url('/vendor/mcicons/icons/minecraft_deepslate_tiles.png');
+}
+
+.mc-detector-rail {
+  background-image: url('/vendor/mcicons/icons/minecraft_detector_rail.png');
+}
+
+.mc-diamond {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond.png');
+}
+
+.mc-diamond-axe {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_axe.png');
+}
+
+.mc-diamond-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_block.png');
+}
+
+.mc-diamond-boots {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_boots.png');
+}
+
+.mc-diamond-chestplate {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_chestplate.png');
+}
+
+.mc-diamond-helmet {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_helmet.png');
+}
+
+.mc-diamond-hoe {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_hoe.png');
+}
+
+.mc-diamond-horse-armor {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_horse_armor.png');
+}
+
+.mc-diamond-leggings {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_leggings.png');
+}
+
+.mc-diamond-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_ore.png');
+}
+
+.mc-diamond-pickaxe {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_pickaxe.png');
+}
+
+.mc-diamond-shovel {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_shovel.png');
+}
+
+.mc-diamond-sword {
+  background-image: url('/vendor/mcicons/icons/minecraft_diamond_sword.png');
+}
+
+.mc-diorite {
+  background-image: url('/vendor/mcicons/icons/minecraft_diorite.png');
+}
+
+.mc-diorite-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_diorite_slab.png');
+}
+
+.mc-diorite-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_diorite_stairs.png');
+}
+
+.mc-diorite-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_diorite_wall.png');
+}
+
+.mc-dirt {
+  background-image: url('/vendor/mcicons/icons/minecraft_dirt.png');
+}
+
+.mc-dirt-path {
+  background-image: url('/vendor/mcicons/icons/minecraft_dirt_path.png');
+}
+
+.mc-disc-fragment-5 {
+  background-image: url('/vendor/mcicons/icons/minecraft_disc_fragment_5.png');
+}
+
+.mc-dispenser {
+  background-image: url('/vendor/mcicons/icons/minecraft_dispenser.png');
+}
+
+.mc-dolphin-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_dolphin_spawn_egg.png');
+}
+
+.mc-donkey-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_donkey_spawn_egg.png');
+}
+
+.mc-dragon-breath {
+  background-image: url('/vendor/mcicons/icons/minecraft_dragon_breath.png');
+}
+
+.mc-dragon-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_dragon_egg.png');
+}
+
+.mc-dragon-head {
+  background-image: url('/vendor/mcicons/icons/minecraft_dragon_head.png');
+}
+
+.mc-dried-kelp {
+  background-image: url('/vendor/mcicons/icons/minecraft_dried_kelp.png');
+}
+
+.mc-dried-kelp-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_dried_kelp_block.png');
+}
+
+.mc-dripstone-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_dripstone_block.png');
+}
+
+.mc-dropper {
+  background-image: url('/vendor/mcicons/icons/minecraft_dropper.png');
+}
+
+.mc-drowned-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_drowned_spawn_egg.png');
+}
+
+.mc-dune-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_dune_armor_trim_smithing_template.png');
+}
+
+.mc-echo-shard {
+  background-image: url('/vendor/mcicons/icons/minecraft_echo_shard.png');
+}
+
+.mc-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_egg.png');
+}
+
+.mc-elder-guardian-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_elder_guardian_spawn_egg.png');
+}
+
+.mc-elytra {
+  background-image: url('/vendor/mcicons/icons/minecraft_elytra.png');
+}
+
+.mc-emerald {
+  background-image: url('/vendor/mcicons/icons/minecraft_emerald.png');
+}
+
+.mc-emerald-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_emerald_block.png');
+}
+
+.mc-emerald-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_emerald_ore.png');
+}
+
+.mc-enchanted-book {
+  background-image: url('/vendor/mcicons/icons/minecraft_enchanted_book.png');
+}
+
+.mc-enchanted-golden-apple {
+  background-image: url('/vendor/mcicons/icons/minecraft_enchanted_golden_apple.png');
+}
+
+.mc-enchanting-table {
+  background-image: url('/vendor/mcicons/icons/minecraft_enchanting_table.png');
+}
+
+.mc-end-crystal {
+  background-image: url('/vendor/mcicons/icons/minecraft_end_crystal.png');
+}
+
+.mc-end-portal-frame {
+  background-image: url('/vendor/mcicons/icons/minecraft_end_portal_frame.png');
+}
+
+.mc-end-rod {
+  background-image: url('/vendor/mcicons/icons/minecraft_end_rod.png');
+}
+
+.mc-end-stone {
+  background-image: url('/vendor/mcicons/icons/minecraft_end_stone.png');
+}
+
+.mc-end-stone-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_end_stone_brick_slab.png');
+}
+
+.mc-end-stone-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_end_stone_brick_stairs.png');
+}
+
+.mc-end-stone-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_end_stone_brick_wall.png');
+}
+
+.mc-end-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_end_stone_bricks.png');
+}
+
+.mc-ender-chest {
+  background-image: url('/vendor/mcicons/icons/minecraft_ender_chest.png');
+}
+
+.mc-ender-dragon-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_ender_dragon_spawn_egg.png');
+}
+
+.mc-ender-eye {
+  background-image: url('/vendor/mcicons/icons/minecraft_ender_eye.png');
+}
+
+.mc-ender-pearl {
+  background-image: url('/vendor/mcicons/icons/minecraft_ender_pearl.png');
+}
+
+.mc-enderman-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_enderman_spawn_egg.png');
+}
+
+.mc-endermite-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_endermite_spawn_egg.png');
+}
+
+.mc-evoker-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_evoker_spawn_egg.png');
+}
+
+.mc-experience-bottle {
+  background-image: url('/vendor/mcicons/icons/minecraft_experience_bottle.png');
+}
+
+.mc-explorer-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_explorer_pottery_sherd.png');
+}
+
+.mc-exposed-chiseled-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_chiseled_copper.png');
+}
+
+.mc-exposed-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_copper.png');
+}
+
+.mc-exposed-copper-bulb {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_copper_bulb.png');
+}
+
+.mc-exposed-copper-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_copper_door.png');
+}
+
+.mc-exposed-copper-grate {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_copper_grate.png');
+}
+
+.mc-exposed-copper-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_copper_trapdoor.png');
+}
+
+.mc-exposed-cut-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_cut_copper.png');
+}
+
+.mc-exposed-cut-copper-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_cut_copper_slab.png');
+}
+
+.mc-exposed-cut-copper-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_exposed_cut_copper_stairs.png');
+}
+
+.mc-eye-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_eye_armor_trim_smithing_template.png');
+}
+
+.mc-farmland {
+  background-image: url('/vendor/mcicons/icons/minecraft_farmland.png');
+}
+
+.mc-feather {
+  background-image: url('/vendor/mcicons/icons/minecraft_feather.png');
+}
+
+.mc-fermented-spider-eye {
+  background-image: url('/vendor/mcicons/icons/minecraft_fermented_spider_eye.png');
+}
+
+.mc-fern {
+  background-image: url('/vendor/mcicons/icons/minecraft_fern.png');
+}
+
+.mc-field-masoned-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_field_masoned_banner_pattern.png');
+}
+
+.mc-filled-map {
+  background-image: url('/vendor/mcicons/icons/minecraft_filled_map.png');
+}
+
+.mc-fire-charge {
+  background-image: url('/vendor/mcicons/icons/minecraft_fire_charge.png');
+}
+
+.mc-fire-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_fire_coral.png');
+}
+
+.mc-fire-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_fire_coral_block.png');
+}
+
+.mc-fire-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_fire_coral_fan.png');
+}
+
+.mc-firefly-bush {
+  background-image: url('/vendor/mcicons/icons/minecraft_firefly_bush.png');
+}
+
+.mc-firework-rocket {
+  background-image: url('/vendor/mcicons/icons/minecraft_firework_rocket.png');
+}
+
+.mc-firework-star {
+  background-image: url('/vendor/mcicons/icons/minecraft_firework_star.png');
+}
+
+.mc-fishing-rod {
+  background-image: url('/vendor/mcicons/icons/minecraft_fishing_rod.png');
+}
+
+.mc-fletching-table {
+  background-image: url('/vendor/mcicons/icons/minecraft_fletching_table.png');
+}
+
+.mc-flint {
+  background-image: url('/vendor/mcicons/icons/minecraft_flint.png');
+}
+
+.mc-flint-and-steel {
+  background-image: url('/vendor/mcicons/icons/minecraft_flint_and_steel.png');
+}
+
+.mc-flow-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_flow_armor_trim_smithing_template.png');
+}
+
+.mc-flow-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_flow_banner_pattern.png');
+}
+
+.mc-flow-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_flow_pottery_sherd.png');
+}
+
+.mc-flower-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_flower_banner_pattern.png');
+}
+
+.mc-flower-pot {
+  background-image: url('/vendor/mcicons/icons/minecraft_flower_pot.png');
+}
+
+.mc-flowering-azalea {
+  background-image: url('/vendor/mcicons/icons/minecraft_flowering_azalea.png');
+}
+
+.mc-flowering-azalea-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_flowering_azalea_leaves.png');
+}
+
+.mc-fox-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_fox_spawn_egg.png');
+}
+
+.mc-friend-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_friend_pottery_sherd.png');
+}
+
+.mc-frog-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_frog_spawn_egg.png');
+}
+
+.mc-frogspawn {
+  background-image: url('/vendor/mcicons/icons/minecraft_frogspawn.png');
+}
+
+.mc-furnace {
+  background-image: url('/vendor/mcicons/icons/minecraft_furnace.png');
+}
+
+.mc-furnace-minecart {
+  background-image: url('/vendor/mcicons/icons/minecraft_furnace_minecart.png');
+}
+
+.mc-ghast-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_ghast_spawn_egg.png');
+}
+
+.mc-ghast-tear {
+  background-image: url('/vendor/mcicons/icons/minecraft_ghast_tear.png');
+}
+
+.mc-gilded-blackstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_gilded_blackstone.png');
+}
+
+.mc-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_glass.png');
+}
+
+.mc-glass-bottle {
+  background-image: url('/vendor/mcicons/icons/minecraft_glass_bottle.png');
+}
+
+.mc-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_glass_pane.png');
+}
+
+.mc-glistering-melon-slice {
+  background-image: url('/vendor/mcicons/icons/minecraft_glistering_melon_slice.png');
+}
+
+.mc-globe-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_globe_banner_pattern.png');
+}
+
+.mc-glow-berries {
+  background-image: url('/vendor/mcicons/icons/minecraft_glow_berries.png');
+}
+
+.mc-glow-ink-sac {
+  background-image: url('/vendor/mcicons/icons/minecraft_glow_ink_sac.png');
+}
+
+.mc-glow-item-frame {
+  background-image: url('/vendor/mcicons/icons/minecraft_glow_item_frame.png');
+}
+
+.mc-glow-lichen {
+  background-image: url('/vendor/mcicons/icons/minecraft_glow_lichen.png');
+}
+
+.mc-glow-squid-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_glow_squid_spawn_egg.png');
+}
+
+.mc-glowstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_glowstone.png');
+}
+
+.mc-glowstone-dust {
+  background-image: url('/vendor/mcicons/icons/minecraft_glowstone_dust.png');
+}
+
+.mc-goat-horn {
+  background-image: url('/vendor/mcicons/icons/minecraft_goat_horn.png');
+}
+
+.mc-goat-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_goat_spawn_egg.png');
+}
+
+.mc-gold-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_gold_block.png');
+}
+
+.mc-gold-ingot {
+  background-image: url('/vendor/mcicons/icons/minecraft_gold_ingot.png');
+}
+
+.mc-gold-nugget {
+  background-image: url('/vendor/mcicons/icons/minecraft_gold_nugget.png');
+}
+
+.mc-gold-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_gold_ore.png');
+}
+
+.mc-golden-apple {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_apple.png');
+}
+
+.mc-golden-axe {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_axe.png');
+}
+
+.mc-golden-boots {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_boots.png');
+}
+
+.mc-golden-carrot {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_carrot.png');
+}
+
+.mc-golden-chestplate {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_chestplate.png');
+}
+
+.mc-golden-helmet {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_helmet.png');
+}
+
+.mc-golden-hoe {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_hoe.png');
+}
+
+.mc-golden-horse-armor {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_horse_armor.png');
+}
+
+.mc-golden-leggings {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_leggings.png');
+}
+
+.mc-golden-pickaxe {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_pickaxe.png');
+}
+
+.mc-golden-shovel {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_shovel.png');
+}
+
+.mc-golden-sword {
+  background-image: url('/vendor/mcicons/icons/minecraft_golden_sword.png');
+}
+
+.mc-granite {
+  background-image: url('/vendor/mcicons/icons/minecraft_granite.png');
+}
+
+.mc-granite-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_granite_slab.png');
+}
+
+.mc-granite-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_granite_stairs.png');
+}
+
+.mc-granite-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_granite_wall.png');
+}
+
+.mc-grass-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_grass_block.png');
+}
+
+.mc-gravel {
+  background-image: url('/vendor/mcicons/icons/minecraft_gravel.png');
+}
+
+.mc-gray-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_banner.png');
+}
+
+.mc-gray-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_bed.png');
+}
+
+.mc-gray-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_bundle.png');
+}
+
+.mc-gray-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_candle.png');
+}
+
+.mc-gray-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_carpet.png');
+}
+
+.mc-gray-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_concrete.png');
+}
+
+.mc-gray-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_concrete_powder.png');
+}
+
+.mc-gray-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_dye.png');
+}
+
+.mc-gray-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_glazed_terracotta.png');
+}
+
+.mc-gray-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_shulker_box.png');
+}
+
+.mc-gray-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_stained_glass.png');
+}
+
+.mc-gray-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_stained_glass_pane.png');
+}
+
+.mc-gray-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_terracotta.png');
+}
+
+.mc-gray-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_gray_wool.png');
+}
+
+.mc-green-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_banner.png');
+}
+
+.mc-green-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_bed.png');
+}
+
+.mc-green-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_bundle.png');
+}
+
+.mc-green-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_candle.png');
+}
+
+.mc-green-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_carpet.png');
+}
+
+.mc-green-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_concrete.png');
+}
+
+.mc-green-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_concrete_powder.png');
+}
+
+.mc-green-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_dye.png');
+}
+
+.mc-green-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_glazed_terracotta.png');
+}
+
+.mc-green-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_shulker_box.png');
+}
+
+.mc-green-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_stained_glass.png');
+}
+
+.mc-green-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_stained_glass_pane.png');
+}
+
+.mc-green-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_terracotta.png');
+}
+
+.mc-green-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_green_wool.png');
+}
+
+.mc-grindstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_grindstone.png');
+}
+
+.mc-guardian-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_guardian_spawn_egg.png');
+}
+
+.mc-gunpowder {
+  background-image: url('/vendor/mcicons/icons/minecraft_gunpowder.png');
+}
+
+.mc-guster-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_guster_banner_pattern.png');
+}
+
+.mc-guster-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_guster_pottery_sherd.png');
+}
+
+.mc-hanging-roots {
+  background-image: url('/vendor/mcicons/icons/minecraft_hanging_roots.png');
+}
+
+.mc-hay-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_hay_block.png');
+}
+
+.mc-heart-of-the-sea {
+  background-image: url('/vendor/mcicons/icons/minecraft_heart_of_the_sea.png');
+}
+
+.mc-heart-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_heart_pottery_sherd.png');
+}
+
+.mc-heartbreak-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_heartbreak_pottery_sherd.png');
+}
+
+.mc-heavy-core {
+  background-image: url('/vendor/mcicons/icons/minecraft_heavy_core.png');
+}
+
+.mc-heavy-weighted-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_heavy_weighted_pressure_plate.png');
+}
+
+.mc-hoglin-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_hoglin_spawn_egg.png');
+}
+
+.mc-honey-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_honey_block.png');
+}
+
+.mc-honey-bottle {
+  background-image: url('/vendor/mcicons/icons/minecraft_honey_bottle.png');
+}
+
+.mc-honeycomb {
+  background-image: url('/vendor/mcicons/icons/minecraft_honeycomb.png');
+}
+
+.mc-honeycomb-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_honeycomb_block.png');
+}
+
+.mc-hopper {
+  background-image: url('/vendor/mcicons/icons/minecraft_hopper.png');
+}
+
+.mc-hopper-minecart {
+  background-image: url('/vendor/mcicons/icons/minecraft_hopper_minecart.png');
+}
+
+.mc-horn-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_horn_coral.png');
+}
+
+.mc-horn-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_horn_coral_block.png');
+}
+
+.mc-horn-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_horn_coral_fan.png');
+}
+
+.mc-horse-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_horse_spawn_egg.png');
+}
+
+.mc-host-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_host_armor_trim_smithing_template.png');
+}
+
+.mc-howl-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_howl_pottery_sherd.png');
+}
+
+.mc-husk-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_husk_spawn_egg.png');
+}
+
+.mc-ice {
+  background-image: url('/vendor/mcicons/icons/minecraft_ice.png');
+}
+
+.mc-infested-chiseled-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_infested_chiseled_stone_bricks.png');
+}
+
+.mc-infested-cobblestone {
+  background-image: url('/vendor/mcicons/icons/minecraft_infested_cobblestone.png');
+}
+
+.mc-infested-cracked-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_infested_cracked_stone_bricks.png');
+}
+
+.mc-infested-deepslate {
+  background-image: url('/vendor/mcicons/icons/minecraft_infested_deepslate.png');
+}
+
+.mc-infested-mossy-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_infested_mossy_stone_bricks.png');
+}
+
+.mc-infested-stone {
+  background-image: url('/vendor/mcicons/icons/minecraft_infested_stone.png');
+}
+
+.mc-infested-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_infested_stone_bricks.png');
+}
+
+.mc-ink-sac {
+  background-image: url('/vendor/mcicons/icons/minecraft_ink_sac.png');
+}
+
+.mc-iron-axe {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_axe.png');
+}
+
+.mc-iron-bars {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_bars.png');
+}
+
+.mc-iron-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_block.png');
+}
+
+.mc-iron-boots {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_boots.png');
+}
+
+.mc-iron-chestplate {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_chestplate.png');
+}
+
+.mc-iron-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_door.png');
+}
+
+.mc-iron-golem-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_golem_spawn_egg.png');
+}
+
+.mc-iron-helmet {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_helmet.png');
+}
+
+.mc-iron-hoe {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_hoe.png');
+}
+
+.mc-iron-horse-armor {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_horse_armor.png');
+}
+
+.mc-iron-ingot {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_ingot.png');
+}
+
+.mc-iron-leggings {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_leggings.png');
+}
+
+.mc-iron-nugget {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_nugget.png');
+}
+
+.mc-iron-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_ore.png');
+}
+
+.mc-iron-pickaxe {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_pickaxe.png');
+}
+
+.mc-iron-shovel {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_shovel.png');
+}
+
+.mc-iron-sword {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_sword.png');
+}
+
+.mc-iron-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_iron_trapdoor.png');
+}
+
+.mc-item-frame {
+  background-image: url('/vendor/mcicons/icons/minecraft_item_frame.png');
+}
+
+.mc-jack-o-lantern {
+  background-image: url('/vendor/mcicons/icons/minecraft_jack_o_lantern.png');
+}
+
+.mc-jigsaw {
+  background-image: url('/vendor/mcicons/icons/minecraft_jigsaw.png');
+}
+
+.mc-jukebox {
+  background-image: url('/vendor/mcicons/icons/minecraft_jukebox.png');
+}
+
+.mc-jungle-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_boat.png');
+}
+
+.mc-jungle-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_button.png');
+}
+
+.mc-jungle-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_chest_boat.png');
+}
+
+.mc-jungle-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_door.png');
+}
+
+.mc-jungle-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_fence.png');
+}
+
+.mc-jungle-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_fence_gate.png');
+}
+
+.mc-jungle-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_hanging_sign.png');
+}
+
+.mc-jungle-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_leaves.png');
+}
+
+.mc-jungle-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_log.png');
+}
+
+.mc-jungle-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_planks.png');
+}
+
+.mc-jungle-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_pressure_plate.png');
+}
+
+.mc-jungle-sapling {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_sapling.png');
+}
+
+.mc-jungle-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_sign.png');
+}
+
+.mc-jungle-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_slab.png');
+}
+
+.mc-jungle-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_stairs.png');
+}
+
+.mc-jungle-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_trapdoor.png');
+}
+
+.mc-jungle-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_jungle_wood.png');
+}
+
+.mc-kelp {
+  background-image: url('/vendor/mcicons/icons/minecraft_kelp.png');
+}
+
+.mc-knowledge-book {
+  background-image: url('/vendor/mcicons/icons/minecraft_knowledge_book.png');
+}
+
+.mc-ladder {
+  background-image: url('/vendor/mcicons/icons/minecraft_ladder.png');
+}
+
+.mc-lantern {
+  background-image: url('/vendor/mcicons/icons/minecraft_lantern.png');
+}
+
+.mc-lapis-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_lapis_block.png');
+}
+
+.mc-lapis-lazuli {
+  background-image: url('/vendor/mcicons/icons/minecraft_lapis_lazuli.png');
+}
+
+.mc-lapis-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_lapis_ore.png');
+}
+
+.mc-large-amethyst-bud {
+  background-image: url('/vendor/mcicons/icons/minecraft_large_amethyst_bud.png');
+}
+
+.mc-large-fern {
+  background-image: url('/vendor/mcicons/icons/minecraft_large_fern.png');
+}
+
+.mc-lava-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_lava_bucket.png');
+}
+
+.mc-lead {
+  background-image: url('/vendor/mcicons/icons/minecraft_lead.png');
+}
+
+.mc-leaf-litter {
+  background-image: url('/vendor/mcicons/icons/minecraft_leaf_litter.png');
+}
+
+.mc-leather {
+  background-image: url('/vendor/mcicons/icons/minecraft_leather.png');
+}
+
+.mc-leather-boots {
+  background-image: url('/vendor/mcicons/icons/minecraft_leather_boots.png');
+}
+
+.mc-leather-chestplate {
+  background-image: url('/vendor/mcicons/icons/minecraft_leather_chestplate.png');
+}
+
+.mc-leather-helmet {
+  background-image: url('/vendor/mcicons/icons/minecraft_leather_helmet.png');
+}
+
+.mc-leather-horse-armor {
+  background-image: url('/vendor/mcicons/icons/minecraft_leather_horse_armor.png');
+}
+
+.mc-leather-leggings {
+  background-image: url('/vendor/mcicons/icons/minecraft_leather_leggings.png');
+}
+
+.mc-lectern {
+  background-image: url('/vendor/mcicons/icons/minecraft_lectern.png');
+}
+
+.mc-lever {
+  background-image: url('/vendor/mcicons/icons/minecraft_lever.png');
+}
+
+.mc-light {
+  background-image: url('/vendor/mcicons/icons/minecraft_light.png');
+}
+
+.mc-light-blue-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_banner.png');
+}
+
+.mc-light-blue-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_bed.png');
+}
+
+.mc-light-blue-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_bundle.png');
+}
+
+.mc-light-blue-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_candle.png');
+}
+
+.mc-light-blue-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_carpet.png');
+}
+
+.mc-light-blue-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_concrete.png');
+}
+
+.mc-light-blue-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_concrete_powder.png');
+}
+
+.mc-light-blue-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_dye.png');
+}
+
+.mc-light-blue-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_glazed_terracotta.png');
+}
+
+.mc-light-blue-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_shulker_box.png');
+}
+
+.mc-light-blue-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_stained_glass.png');
+}
+
+.mc-light-blue-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_stained_glass_pane.png');
+}
+
+.mc-light-blue-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_terracotta.png');
+}
+
+.mc-light-blue-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_blue_wool.png');
+}
+
+.mc-light-gray-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_banner.png');
+}
+
+.mc-light-gray-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_bed.png');
+}
+
+.mc-light-gray-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_bundle.png');
+}
+
+.mc-light-gray-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_candle.png');
+}
+
+.mc-light-gray-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_carpet.png');
+}
+
+.mc-light-gray-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_concrete.png');
+}
+
+.mc-light-gray-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_concrete_powder.png');
+}
+
+.mc-light-gray-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_dye.png');
+}
+
+.mc-light-gray-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_glazed_terracotta.png');
+}
+
+.mc-light-gray-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_shulker_box.png');
+}
+
+.mc-light-gray-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_stained_glass.png');
+}
+
+.mc-light-gray-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_stained_glass_pane.png');
+}
+
+.mc-light-gray-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_terracotta.png');
+}
+
+.mc-light-gray-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_gray_wool.png');
+}
+
+.mc-light-weighted-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_light_weighted_pressure_plate.png');
+}
+
+.mc-lightning-rod {
+  background-image: url('/vendor/mcicons/icons/minecraft_lightning_rod.png');
+}
+
+.mc-lilac {
+  background-image: url('/vendor/mcicons/icons/minecraft_lilac.png');
+}
+
+.mc-lily-of-the-valley {
+  background-image: url('/vendor/mcicons/icons/minecraft_lily_of_the_valley.png');
+}
+
+.mc-lily-pad {
+  background-image: url('/vendor/mcicons/icons/minecraft_lily_pad.png');
+}
+
+.mc-lime-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_banner.png');
+}
+
+.mc-lime-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_bed.png');
+}
+
+.mc-lime-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_bundle.png');
+}
+
+.mc-lime-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_candle.png');
+}
+
+.mc-lime-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_carpet.png');
+}
+
+.mc-lime-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_concrete.png');
+}
+
+.mc-lime-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_concrete_powder.png');
+}
+
+.mc-lime-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_dye.png');
+}
+
+.mc-lime-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_glazed_terracotta.png');
+}
+
+.mc-lime-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_shulker_box.png');
+}
+
+.mc-lime-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_stained_glass.png');
+}
+
+.mc-lime-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_stained_glass_pane.png');
+}
+
+.mc-lime-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_terracotta.png');
+}
+
+.mc-lime-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_lime_wool.png');
+}
+
+.mc-lingering-potion {
+  background-image: url('/vendor/mcicons/icons/minecraft_lingering_potion.png');
+}
+
+.mc-llama-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_llama_spawn_egg.png');
+}
+
+.mc-lodestone {
+  background-image: url('/vendor/mcicons/icons/minecraft_lodestone.png');
+}
+
+.mc-loom {
+  background-image: url('/vendor/mcicons/icons/minecraft_loom.png');
+}
+
+.mc-mace {
+  background-image: url('/vendor/mcicons/icons/minecraft_mace.png');
+}
+
+.mc-magenta-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_banner.png');
+}
+
+.mc-magenta-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_bed.png');
+}
+
+.mc-magenta-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_bundle.png');
+}
+
+.mc-magenta-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_candle.png');
+}
+
+.mc-magenta-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_carpet.png');
+}
+
+.mc-magenta-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_concrete.png');
+}
+
+.mc-magenta-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_concrete_powder.png');
+}
+
+.mc-magenta-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_dye.png');
+}
+
+.mc-magenta-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_glazed_terracotta.png');
+}
+
+.mc-magenta-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_shulker_box.png');
+}
+
+.mc-magenta-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_stained_glass.png');
+}
+
+.mc-magenta-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_stained_glass_pane.png');
+}
+
+.mc-magenta-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_terracotta.png');
+}
+
+.mc-magenta-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_magenta_wool.png');
+}
+
+.mc-magma-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_magma_block.png');
+}
+
+.mc-magma-cream {
+  background-image: url('/vendor/mcicons/icons/minecraft_magma_cream.png');
+}
+
+.mc-magma-cube-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_magma_cube_spawn_egg.png');
+}
+
+.mc-mangrove-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_boat.png');
+}
+
+.mc-mangrove-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_button.png');
+}
+
+.mc-mangrove-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_chest_boat.png');
+}
+
+.mc-mangrove-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_door.png');
+}
+
+.mc-mangrove-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_fence.png');
+}
+
+.mc-mangrove-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_fence_gate.png');
+}
+
+.mc-mangrove-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_hanging_sign.png');
+}
+
+.mc-mangrove-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_leaves.png');
+}
+
+.mc-mangrove-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_log.png');
+}
+
+.mc-mangrove-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_planks.png');
+}
+
+.mc-mangrove-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_pressure_plate.png');
+}
+
+.mc-mangrove-propagule {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_propagule.png');
+}
+
+.mc-mangrove-roots {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_roots.png');
+}
+
+.mc-mangrove-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_sign.png');
+}
+
+.mc-mangrove-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_slab.png');
+}
+
+.mc-mangrove-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_stairs.png');
+}
+
+.mc-mangrove-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_trapdoor.png');
+}
+
+.mc-mangrove-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_mangrove_wood.png');
+}
+
+.mc-map {
+  background-image: url('/vendor/mcicons/icons/minecraft_map.png');
+}
+
+.mc-medium-amethyst-bud {
+  background-image: url('/vendor/mcicons/icons/minecraft_medium_amethyst_bud.png');
+}
+
+.mc-melon {
+  background-image: url('/vendor/mcicons/icons/minecraft_melon.png');
+}
+
+.mc-melon-seeds {
+  background-image: url('/vendor/mcicons/icons/minecraft_melon_seeds.png');
+}
+
+.mc-melon-slice {
+  background-image: url('/vendor/mcicons/icons/minecraft_melon_slice.png');
+}
+
+.mc-milk-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_milk_bucket.png');
+}
+
+.mc-minecart {
+  background-image: url('/vendor/mcicons/icons/minecraft_minecart.png');
+}
+
+.mc-miner-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_miner_pottery_sherd.png');
+}
+
+.mc-mojang-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_mojang_banner_pattern.png');
+}
+
+.mc-mooshroom-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_mooshroom_spawn_egg.png');
+}
+
+.mc-moss-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_moss_block.png');
+}
+
+.mc-moss-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_moss_carpet.png');
+}
+
+.mc-mossy-cobblestone {
+  background-image: url('/vendor/mcicons/icons/minecraft_mossy_cobblestone.png');
+}
+
+.mc-mossy-cobblestone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_mossy_cobblestone_slab.png');
+}
+
+.mc-mossy-cobblestone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_mossy_cobblestone_stairs.png');
+}
+
+.mc-mossy-cobblestone-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_mossy_cobblestone_wall.png');
+}
+
+.mc-mossy-stone-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_mossy_stone_brick_slab.png');
+}
+
+.mc-mossy-stone-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_mossy_stone_brick_stairs.png');
+}
+
+.mc-mossy-stone-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_mossy_stone_brick_wall.png');
+}
+
+.mc-mossy-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_mossy_stone_bricks.png');
+}
+
+.mc-mourner-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_mourner_pottery_sherd.png');
+}
+
+.mc-mud {
+  background-image: url('/vendor/mcicons/icons/minecraft_mud.png');
+}
+
+.mc-mud-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_mud_brick_slab.png');
+}
+
+.mc-mud-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_mud_brick_stairs.png');
+}
+
+.mc-mud-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_mud_brick_wall.png');
+}
+
+.mc-mud-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_mud_bricks.png');
+}
+
+.mc-muddy-mangrove-roots {
+  background-image: url('/vendor/mcicons/icons/minecraft_muddy_mangrove_roots.png');
+}
+
+.mc-mule-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_mule_spawn_egg.png');
+}
+
+.mc-mushroom-stem {
+  background-image: url('/vendor/mcicons/icons/minecraft_mushroom_stem.png');
+}
+
+.mc-mushroom-stew {
+  background-image: url('/vendor/mcicons/icons/minecraft_mushroom_stew.png');
+}
+
+.mc-music-disc-11 {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_11.png');
+}
+
+.mc-music-disc-13 {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_13.png');
+}
+
+.mc-music-disc-5 {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_5.png');
+}
+
+.mc-music-disc-blocks {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_blocks.png');
+}
+
+.mc-music-disc-cat {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_cat.png');
+}
+
+.mc-music-disc-chirp {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_chirp.png');
+}
+
+.mc-music-disc-creator {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_creator.png');
+}
+
+.mc-music-disc-creator-music-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_creator_music_box.png');
+}
+
+.mc-music-disc-far {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_far.png');
+}
+
+.mc-music-disc-mall {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_mall.png');
+}
+
+.mc-music-disc-mellohi {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_mellohi.png');
+}
+
+.mc-music-disc-otherside {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_otherside.png');
+}
+
+.mc-music-disc-pigstep {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_pigstep.png');
+}
+
+.mc-music-disc-precipice {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_precipice.png');
+}
+
+.mc-music-disc-relic {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_relic.png');
+}
+
+.mc-music-disc-stal {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_stal.png');
+}
+
+.mc-music-disc-strad {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_strad.png');
+}
+
+.mc-music-disc-wait {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_wait.png');
+}
+
+.mc-music-disc-ward {
+  background-image: url('/vendor/mcicons/icons/minecraft_music_disc_ward.png');
+}
+
+.mc-mutton {
+  background-image: url('/vendor/mcicons/icons/minecraft_mutton.png');
+}
+
+.mc-mycelium {
+  background-image: url('/vendor/mcicons/icons/minecraft_mycelium.png');
+}
+
+.mc-name-tag {
+  background-image: url('/vendor/mcicons/icons/minecraft_name_tag.png');
+}
+
+.mc-nautilus-shell {
+  background-image: url('/vendor/mcicons/icons/minecraft_nautilus_shell.png');
+}
+
+.mc-nether-brick {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_brick.png');
+}
+
+.mc-nether-brick-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_brick_fence.png');
+}
+
+.mc-nether-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_brick_slab.png');
+}
+
+.mc-nether-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_brick_stairs.png');
+}
+
+.mc-nether-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_brick_wall.png');
+}
+
+.mc-nether-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_bricks.png');
+}
+
+.mc-nether-gold-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_gold_ore.png');
+}
+
+.mc-nether-quartz-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_quartz_ore.png');
+}
+
+.mc-nether-sprouts {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_sprouts.png');
+}
+
+.mc-nether-star {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_star.png');
+}
+
+.mc-nether-wart {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_wart.png');
+}
+
+.mc-nether-wart-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_nether_wart_block.png');
+}
+
+.mc-netherite-axe {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_axe.png');
+}
+
+.mc-netherite-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_block.png');
+}
+
+.mc-netherite-boots {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_boots.png');
+}
+
+.mc-netherite-chestplate {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_chestplate.png');
+}
+
+.mc-netherite-helmet {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_helmet.png');
+}
+
+.mc-netherite-hoe {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_hoe.png');
+}
+
+.mc-netherite-ingot {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_ingot.png');
+}
+
+.mc-netherite-leggings {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_leggings.png');
+}
+
+.mc-netherite-pickaxe {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_pickaxe.png');
+}
+
+.mc-netherite-scrap {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_scrap.png');
+}
+
+.mc-netherite-shovel {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_shovel.png');
+}
+
+.mc-netherite-sword {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_sword.png');
+}
+
+.mc-netherite-upgrade-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherite_upgrade_smithing_template.png');
+}
+
+.mc-netherrack {
+  background-image: url('/vendor/mcicons/icons/minecraft_netherrack.png');
+}
+
+.mc-note-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_note_block.png');
+}
+
+.mc-oak-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_boat.png');
+}
+
+.mc-oak-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_button.png');
+}
+
+.mc-oak-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_chest_boat.png');
+}
+
+.mc-oak-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_door.png');
+}
+
+.mc-oak-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_fence.png');
+}
+
+.mc-oak-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_fence_gate.png');
+}
+
+.mc-oak-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_hanging_sign.png');
+}
+
+.mc-oak-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_leaves.png');
+}
+
+.mc-oak-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_log.png');
+}
+
+.mc-oak-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_planks.png');
+}
+
+.mc-oak-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_pressure_plate.png');
+}
+
+.mc-oak-sapling {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_sapling.png');
+}
+
+.mc-oak-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_sign.png');
+}
+
+.mc-oak-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_slab.png');
+}
+
+.mc-oak-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_stairs.png');
+}
+
+.mc-oak-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_trapdoor.png');
+}
+
+.mc-oak-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_oak_wood.png');
+}
+
+.mc-observer {
+  background-image: url('/vendor/mcicons/icons/minecraft_observer.png');
+}
+
+.mc-obsidian {
+  background-image: url('/vendor/mcicons/icons/minecraft_obsidian.png');
+}
+
+.mc-ocelot-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_ocelot_spawn_egg.png');
+}
+
+.mc-ochre-froglight {
+  background-image: url('/vendor/mcicons/icons/minecraft_ochre_froglight.png');
+}
+
+.mc-ominous-bottle {
+  background-image: url('/vendor/mcicons/icons/minecraft_ominous_bottle.png');
+}
+
+.mc-ominous-trial-key {
+  background-image: url('/vendor/mcicons/icons/minecraft_ominous_trial_key.png');
+}
+
+.mc-open-eyeblossom {
+  background-image: url('/vendor/mcicons/icons/minecraft_open_eyeblossom.png');
+}
+
+.mc-orange-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_banner.png');
+}
+
+.mc-orange-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_bed.png');
+}
+
+.mc-orange-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_bundle.png');
+}
+
+.mc-orange-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_candle.png');
+}
+
+.mc-orange-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_carpet.png');
+}
+
+.mc-orange-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_concrete.png');
+}
+
+.mc-orange-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_concrete_powder.png');
+}
+
+.mc-orange-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_dye.png');
+}
+
+.mc-orange-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_glazed_terracotta.png');
+}
+
+.mc-orange-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_shulker_box.png');
+}
+
+.mc-orange-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_stained_glass.png');
+}
+
+.mc-orange-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_stained_glass_pane.png');
+}
+
+.mc-orange-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_terracotta.png');
+}
+
+.mc-orange-tulip {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_tulip.png');
+}
+
+.mc-orange-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_orange_wool.png');
+}
+
+.mc-oxeye-daisy {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxeye_daisy.png');
+}
+
+.mc-oxidized-chiseled-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_chiseled_copper.png');
+}
+
+.mc-oxidized-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_copper.png');
+}
+
+.mc-oxidized-copper-bulb {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_copper_bulb.png');
+}
+
+.mc-oxidized-copper-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_copper_door.png');
+}
+
+.mc-oxidized-copper-grate {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_copper_grate.png');
+}
+
+.mc-oxidized-copper-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_copper_trapdoor.png');
+}
+
+.mc-oxidized-cut-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_cut_copper.png');
+}
+
+.mc-oxidized-cut-copper-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_cut_copper_slab.png');
+}
+
+.mc-oxidized-cut-copper-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_oxidized_cut_copper_stairs.png');
+}
+
+.mc-packed-ice {
+  background-image: url('/vendor/mcicons/icons/minecraft_packed_ice.png');
+}
+
+.mc-packed-mud {
+  background-image: url('/vendor/mcicons/icons/minecraft_packed_mud.png');
+}
+
+.mc-painting {
+  background-image: url('/vendor/mcicons/icons/minecraft_painting.png');
+}
+
+.mc-pale-hanging-moss {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_hanging_moss.png');
+}
+
+.mc-pale-moss-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_moss_block.png');
+}
+
+.mc-pale-moss-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_moss_carpet.png');
+}
+
+.mc-pale-oak-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_boat.png');
+}
+
+.mc-pale-oak-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_button.png');
+}
+
+.mc-pale-oak-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_chest_boat.png');
+}
+
+.mc-pale-oak-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_door.png');
+}
+
+.mc-pale-oak-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_fence.png');
+}
+
+.mc-pale-oak-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_fence_gate.png');
+}
+
+.mc-pale-oak-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_hanging_sign.png');
+}
+
+.mc-pale-oak-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_leaves.png');
+}
+
+.mc-pale-oak-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_log.png');
+}
+
+.mc-pale-oak-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_planks.png');
+}
+
+.mc-pale-oak-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_pressure_plate.png');
+}
+
+.mc-pale-oak-sapling {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_sapling.png');
+}
+
+.mc-pale-oak-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_sign.png');
+}
+
+.mc-pale-oak-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_slab.png');
+}
+
+.mc-pale-oak-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_stairs.png');
+}
+
+.mc-pale-oak-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_trapdoor.png');
+}
+
+.mc-pale-oak-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_pale_oak_wood.png');
+}
+
+.mc-panda-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_panda_spawn_egg.png');
+}
+
+.mc-paper {
+  background-image: url('/vendor/mcicons/icons/minecraft_paper.png');
+}
+
+.mc-parrot-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_parrot_spawn_egg.png');
+}
+
+.mc-pearlescent-froglight {
+  background-image: url('/vendor/mcicons/icons/minecraft_pearlescent_froglight.png');
+}
+
+.mc-peony {
+  background-image: url('/vendor/mcicons/icons/minecraft_peony.png');
+}
+
+.mc-petrified-oak-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_petrified_oak_slab.png');
+}
+
+.mc-phantom-membrane {
+  background-image: url('/vendor/mcicons/icons/minecraft_phantom_membrane.png');
+}
+
+.mc-phantom-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_phantom_spawn_egg.png');
+}
+
+.mc-pig-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_pig_spawn_egg.png');
+}
+
+.mc-piglin-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_piglin_banner_pattern.png');
+}
+
+.mc-piglin-brute-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_piglin_brute_spawn_egg.png');
+}
+
+.mc-piglin-head {
+  background-image: url('/vendor/mcicons/icons/minecraft_piglin_head.png');
+}
+
+.mc-piglin-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_piglin_spawn_egg.png');
+}
+
+.mc-pillager-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_pillager_spawn_egg.png');
+}
+
+.mc-pink-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_banner.png');
+}
+
+.mc-pink-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_bed.png');
+}
+
+.mc-pink-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_bundle.png');
+}
+
+.mc-pink-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_candle.png');
+}
+
+.mc-pink-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_carpet.png');
+}
+
+.mc-pink-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_concrete.png');
+}
+
+.mc-pink-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_concrete_powder.png');
+}
+
+.mc-pink-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_dye.png');
+}
+
+.mc-pink-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_glazed_terracotta.png');
+}
+
+.mc-pink-petals {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_petals.png');
+}
+
+.mc-pink-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_shulker_box.png');
+}
+
+.mc-pink-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_stained_glass.png');
+}
+
+.mc-pink-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_stained_glass_pane.png');
+}
+
+.mc-pink-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_terracotta.png');
+}
+
+.mc-pink-tulip {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_tulip.png');
+}
+
+.mc-pink-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_pink_wool.png');
+}
+
+.mc-piston {
+  background-image: url('/vendor/mcicons/icons/minecraft_piston.png');
+}
+
+.mc-pitcher-plant {
+  background-image: url('/vendor/mcicons/icons/minecraft_pitcher_plant.png');
+}
+
+.mc-pitcher-pod {
+  background-image: url('/vendor/mcicons/icons/minecraft_pitcher_pod.png');
+}
+
+.mc-player-head {
+  background-image: url('/vendor/mcicons/icons/minecraft_player_head.png');
+}
+
+.mc-plenty-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_plenty_pottery_sherd.png');
+}
+
+.mc-podzol {
+  background-image: url('/vendor/mcicons/icons/minecraft_podzol.png');
+}
+
+.mc-pointed-dripstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_pointed_dripstone.png');
+}
+
+.mc-poisonous-potato {
+  background-image: url('/vendor/mcicons/icons/minecraft_poisonous_potato.png');
+}
+
+.mc-polar-bear-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_polar_bear_spawn_egg.png');
+}
+
+.mc-polished-andesite {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_andesite.png');
+}
+
+.mc-polished-andesite-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_andesite_slab.png');
+}
+
+.mc-polished-andesite-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_andesite_stairs.png');
+}
+
+.mc-polished-basalt {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_basalt.png');
+}
+
+.mc-polished-blackstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone.png');
+}
+
+.mc-polished-blackstone-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_brick_slab.png');
+}
+
+.mc-polished-blackstone-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_brick_stairs.png');
+}
+
+.mc-polished-blackstone-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_brick_wall.png');
+}
+
+.mc-polished-blackstone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_bricks.png');
+}
+
+.mc-polished-blackstone-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_button.png');
+}
+
+.mc-polished-blackstone-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_pressure_plate.png');
+}
+
+.mc-polished-blackstone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_slab.png');
+}
+
+.mc-polished-blackstone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_stairs.png');
+}
+
+.mc-polished-blackstone-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_blackstone_wall.png');
+}
+
+.mc-polished-deepslate {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_deepslate.png');
+}
+
+.mc-polished-deepslate-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_deepslate_slab.png');
+}
+
+.mc-polished-deepslate-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_deepslate_stairs.png');
+}
+
+.mc-polished-deepslate-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_deepslate_wall.png');
+}
+
+.mc-polished-diorite {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_diorite.png');
+}
+
+.mc-polished-diorite-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_diorite_slab.png');
+}
+
+.mc-polished-diorite-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_diorite_stairs.png');
+}
+
+.mc-polished-granite {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_granite.png');
+}
+
+.mc-polished-granite-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_granite_slab.png');
+}
+
+.mc-polished-granite-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_granite_stairs.png');
+}
+
+.mc-polished-tuff {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_tuff.png');
+}
+
+.mc-polished-tuff-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_tuff_slab.png');
+}
+
+.mc-polished-tuff-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_tuff_stairs.png');
+}
+
+.mc-polished-tuff-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_polished_tuff_wall.png');
+}
+
+.mc-popped-chorus-fruit {
+  background-image: url('/vendor/mcicons/icons/minecraft_popped_chorus_fruit.png');
+}
+
+.mc-poppy {
+  background-image: url('/vendor/mcicons/icons/minecraft_poppy.png');
+}
+
+.mc-porkchop {
+  background-image: url('/vendor/mcicons/icons/minecraft_porkchop.png');
+}
+
+.mc-potato {
+  background-image: url('/vendor/mcicons/icons/minecraft_potato.png');
+}
+
+.mc-potion {
+  background-image: url('/vendor/mcicons/icons/minecraft_potion.png');
+}
+
+.mc-powder-snow-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_powder_snow_bucket.png');
+}
+
+.mc-powered-rail {
+  background-image: url('/vendor/mcicons/icons/minecraft_powered_rail.png');
+}
+
+.mc-prismarine {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine.png');
+}
+
+.mc-prismarine-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine_brick_slab.png');
+}
+
+.mc-prismarine-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine_brick_stairs.png');
+}
+
+.mc-prismarine-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine_bricks.png');
+}
+
+.mc-prismarine-crystals {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine_crystals.png');
+}
+
+.mc-prismarine-shard {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine_shard.png');
+}
+
+.mc-prismarine-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine_slab.png');
+}
+
+.mc-prismarine-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine_stairs.png');
+}
+
+.mc-prismarine-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_prismarine_wall.png');
+}
+
+.mc-prize-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_prize_pottery_sherd.png');
+}
+
+.mc-pufferfish {
+  background-image: url('/vendor/mcicons/icons/minecraft_pufferfish.png');
+}
+
+.mc-pufferfish-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_pufferfish_bucket.png');
+}
+
+.mc-pufferfish-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_pufferfish_spawn_egg.png');
+}
+
+.mc-pumpkin {
+  background-image: url('/vendor/mcicons/icons/minecraft_pumpkin.png');
+}
+
+.mc-pumpkin-pie {
+  background-image: url('/vendor/mcicons/icons/minecraft_pumpkin_pie.png');
+}
+
+.mc-pumpkin-seeds {
+  background-image: url('/vendor/mcicons/icons/minecraft_pumpkin_seeds.png');
+}
+
+.mc-purple-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_banner.png');
+}
+
+.mc-purple-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_bed.png');
+}
+
+.mc-purple-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_bundle.png');
+}
+
+.mc-purple-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_candle.png');
+}
+
+.mc-purple-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_carpet.png');
+}
+
+.mc-purple-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_concrete.png');
+}
+
+.mc-purple-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_concrete_powder.png');
+}
+
+.mc-purple-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_dye.png');
+}
+
+.mc-purple-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_glazed_terracotta.png');
+}
+
+.mc-purple-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_shulker_box.png');
+}
+
+.mc-purple-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_stained_glass.png');
+}
+
+.mc-purple-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_stained_glass_pane.png');
+}
+
+.mc-purple-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_terracotta.png');
+}
+
+.mc-purple-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_purple_wool.png');
+}
+
+.mc-purpur-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_purpur_block.png');
+}
+
+.mc-purpur-pillar {
+  background-image: url('/vendor/mcicons/icons/minecraft_purpur_pillar.png');
+}
+
+.mc-purpur-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_purpur_slab.png');
+}
+
+.mc-purpur-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_purpur_stairs.png');
+}
+
+.mc-quartz {
+  background-image: url('/vendor/mcicons/icons/minecraft_quartz.png');
+}
+
+.mc-quartz-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_quartz_block.png');
+}
+
+.mc-quartz-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_quartz_bricks.png');
+}
+
+.mc-quartz-pillar {
+  background-image: url('/vendor/mcicons/icons/minecraft_quartz_pillar.png');
+}
+
+.mc-quartz-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_quartz_slab.png');
+}
+
+.mc-quartz-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_quartz_stairs.png');
+}
+
+.mc-rabbit {
+  background-image: url('/vendor/mcicons/icons/minecraft_rabbit.png');
+}
+
+.mc-rabbit-foot {
+  background-image: url('/vendor/mcicons/icons/minecraft_rabbit_foot.png');
+}
+
+.mc-rabbit-hide {
+  background-image: url('/vendor/mcicons/icons/minecraft_rabbit_hide.png');
+}
+
+.mc-rabbit-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_rabbit_spawn_egg.png');
+}
+
+.mc-rabbit-stew {
+  background-image: url('/vendor/mcicons/icons/minecraft_rabbit_stew.png');
+}
+
+.mc-rail {
+  background-image: url('/vendor/mcicons/icons/minecraft_rail.png');
+}
+
+.mc-raiser-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_raiser_armor_trim_smithing_template.png');
+}
+
+.mc-ravager-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_ravager_spawn_egg.png');
+}
+
+.mc-raw-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_raw_copper.png');
+}
+
+.mc-raw-copper-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_raw_copper_block.png');
+}
+
+.mc-raw-gold {
+  background-image: url('/vendor/mcicons/icons/minecraft_raw_gold.png');
+}
+
+.mc-raw-gold-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_raw_gold_block.png');
+}
+
+.mc-raw-iron {
+  background-image: url('/vendor/mcicons/icons/minecraft_raw_iron.png');
+}
+
+.mc-raw-iron-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_raw_iron_block.png');
+}
+
+.mc-recovery-compass {
+  background-image: url('/vendor/mcicons/icons/minecraft_recovery_compass.png');
+}
+
+.mc-red-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_banner.png');
+}
+
+.mc-red-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_bed.png');
+}
+
+.mc-red-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_bundle.png');
+}
+
+.mc-red-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_candle.png');
+}
+
+.mc-red-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_carpet.png');
+}
+
+.mc-red-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_concrete.png');
+}
+
+.mc-red-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_concrete_powder.png');
+}
+
+.mc-red-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_dye.png');
+}
+
+.mc-red-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_glazed_terracotta.png');
+}
+
+.mc-red-mushroom {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_mushroom.png');
+}
+
+.mc-red-mushroom-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_mushroom_block.png');
+}
+
+.mc-red-nether-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_nether_brick_slab.png');
+}
+
+.mc-red-nether-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_nether_brick_stairs.png');
+}
+
+.mc-red-nether-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_nether_brick_wall.png');
+}
+
+.mc-red-nether-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_nether_bricks.png');
+}
+
+.mc-red-sand {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_sand.png');
+}
+
+.mc-red-sandstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_sandstone.png');
+}
+
+.mc-red-sandstone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_sandstone_slab.png');
+}
+
+.mc-red-sandstone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_sandstone_stairs.png');
+}
+
+.mc-red-sandstone-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_sandstone_wall.png');
+}
+
+.mc-red-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_shulker_box.png');
+}
+
+.mc-red-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_stained_glass.png');
+}
+
+.mc-red-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_stained_glass_pane.png');
+}
+
+.mc-red-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_terracotta.png');
+}
+
+.mc-red-tulip {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_tulip.png');
+}
+
+.mc-red-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_red_wool.png');
+}
+
+.mc-redstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_redstone.png');
+}
+
+.mc-redstone-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_redstone_block.png');
+}
+
+.mc-redstone-lamp {
+  background-image: url('/vendor/mcicons/icons/minecraft_redstone_lamp.png');
+}
+
+.mc-redstone-ore {
+  background-image: url('/vendor/mcicons/icons/minecraft_redstone_ore.png');
+}
+
+.mc-redstone-torch {
+  background-image: url('/vendor/mcicons/icons/minecraft_redstone_torch.png');
+}
+
+.mc-reinforced-deepslate {
+  background-image: url('/vendor/mcicons/icons/minecraft_reinforced_deepslate.png');
+}
+
+.mc-repeater {
+  background-image: url('/vendor/mcicons/icons/minecraft_repeater.png');
+}
+
+.mc-repeating-command-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_repeating_command_block.png');
+}
+
+.mc-resin-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_resin_block.png');
+}
+
+.mc-resin-brick {
+  background-image: url('/vendor/mcicons/icons/minecraft_resin_brick.png');
+}
+
+.mc-resin-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_resin_brick_slab.png');
+}
+
+.mc-resin-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_resin_brick_stairs.png');
+}
+
+.mc-resin-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_resin_brick_wall.png');
+}
+
+.mc-resin-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_resin_bricks.png');
+}
+
+.mc-resin-clump {
+  background-image: url('/vendor/mcicons/icons/minecraft_resin_clump.png');
+}
+
+.mc-respawn-anchor {
+  background-image: url('/vendor/mcicons/icons/minecraft_respawn_anchor.png');
+}
+
+.mc-rib-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_rib_armor_trim_smithing_template.png');
+}
+
+.mc-rooted-dirt {
+  background-image: url('/vendor/mcicons/icons/minecraft_rooted_dirt.png');
+}
+
+.mc-rose-bush {
+  background-image: url('/vendor/mcicons/icons/minecraft_rose_bush.png');
+}
+
+.mc-rotten-flesh {
+  background-image: url('/vendor/mcicons/icons/minecraft_rotten_flesh.png');
+}
+
+.mc-saddle {
+  background-image: url('/vendor/mcicons/icons/minecraft_saddle.png');
+}
+
+.mc-salmon {
+  background-image: url('/vendor/mcicons/icons/minecraft_salmon.png');
+}
+
+.mc-salmon-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_salmon_bucket.png');
+}
+
+.mc-salmon-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_salmon_spawn_egg.png');
+}
+
+.mc-sand {
+  background-image: url('/vendor/mcicons/icons/minecraft_sand.png');
+}
+
+.mc-sandstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_sandstone.png');
+}
+
+.mc-sandstone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_sandstone_slab.png');
+}
+
+.mc-sandstone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_sandstone_stairs.png');
+}
+
+.mc-sandstone-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_sandstone_wall.png');
+}
+
+.mc-scaffolding {
+  background-image: url('/vendor/mcicons/icons/minecraft_scaffolding.png');
+}
+
+.mc-scrape-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_scrape_pottery_sherd.png');
+}
+
+.mc-sculk {
+  background-image: url('/vendor/mcicons/icons/minecraft_sculk.png');
+}
+
+.mc-sculk-catalyst {
+  background-image: url('/vendor/mcicons/icons/minecraft_sculk_catalyst.png');
+}
+
+.mc-sculk-sensor {
+  background-image: url('/vendor/mcicons/icons/minecraft_sculk_sensor.png');
+}
+
+.mc-sculk-shrieker {
+  background-image: url('/vendor/mcicons/icons/minecraft_sculk_shrieker.png');
+}
+
+.mc-sculk-vein {
+  background-image: url('/vendor/mcicons/icons/minecraft_sculk_vein.png');
+}
+
+.mc-sea-lantern {
+  background-image: url('/vendor/mcicons/icons/minecraft_sea_lantern.png');
+}
+
+.mc-sea-pickle {
+  background-image: url('/vendor/mcicons/icons/minecraft_sea_pickle.png');
+}
+
+.mc-seagrass {
+  background-image: url('/vendor/mcicons/icons/minecraft_seagrass.png');
+}
+
+.mc-sentry-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_sentry_armor_trim_smithing_template.png');
+}
+
+.mc-shaper-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_shaper_armor_trim_smithing_template.png');
+}
+
+.mc-sheaf-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_sheaf_pottery_sherd.png');
+}
+
+.mc-shears {
+  background-image: url('/vendor/mcicons/icons/minecraft_shears.png');
+}
+
+.mc-sheep-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_sheep_spawn_egg.png');
+}
+
+.mc-shelter-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_shelter_pottery_sherd.png');
+}
+
+.mc-shield {
+  background-image: url('/vendor/mcicons/icons/minecraft_shield.png');
+}
+
+.mc-short-dry-grass {
+  background-image: url('/vendor/mcicons/icons/minecraft_short_dry_grass.png');
+}
+
+.mc-short-grass {
+  background-image: url('/vendor/mcicons/icons/minecraft_short_grass.png');
+}
+
+.mc-shroomlight {
+  background-image: url('/vendor/mcicons/icons/minecraft_shroomlight.png');
+}
+
+.mc-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_shulker_box.png');
+}
+
+.mc-shulker-shell {
+  background-image: url('/vendor/mcicons/icons/minecraft_shulker_shell.png');
+}
+
+.mc-shulker-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_shulker_spawn_egg.png');
+}
+
+.mc-silence-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_silence_armor_trim_smithing_template.png');
+}
+
+.mc-silverfish-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_silverfish_spawn_egg.png');
+}
+
+.mc-skeleton-horse-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_skeleton_horse_spawn_egg.png');
+}
+
+.mc-skeleton-skull {
+  background-image: url('/vendor/mcicons/icons/minecraft_skeleton_skull.png');
+}
+
+.mc-skeleton-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_skeleton_spawn_egg.png');
+}
+
+.mc-skull-banner-pattern {
+  background-image: url('/vendor/mcicons/icons/minecraft_skull_banner_pattern.png');
+}
+
+.mc-skull-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_skull_pottery_sherd.png');
+}
+
+.mc-slime-ball {
+  background-image: url('/vendor/mcicons/icons/minecraft_slime_ball.png');
+}
+
+.mc-slime-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_slime_block.png');
+}
+
+.mc-slime-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_slime_spawn_egg.png');
+}
+
+.mc-small-amethyst-bud {
+  background-image: url('/vendor/mcicons/icons/minecraft_small_amethyst_bud.png');
+}
+
+.mc-small-dripleaf {
+  background-image: url('/vendor/mcicons/icons/minecraft_small_dripleaf.png');
+}
+
+.mc-smithing-table {
+  background-image: url('/vendor/mcicons/icons/minecraft_smithing_table.png');
+}
+
+.mc-smoker {
+  background-image: url('/vendor/mcicons/icons/minecraft_smoker.png');
+}
+
+.mc-smooth-basalt {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_basalt.png');
+}
+
+.mc-smooth-quartz {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_quartz.png');
+}
+
+.mc-smooth-quartz-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_quartz_slab.png');
+}
+
+.mc-smooth-quartz-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_quartz_stairs.png');
+}
+
+.mc-smooth-red-sandstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_red_sandstone.png');
+}
+
+.mc-smooth-red-sandstone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_red_sandstone_slab.png');
+}
+
+.mc-smooth-red-sandstone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_red_sandstone_stairs.png');
+}
+
+.mc-smooth-sandstone {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_sandstone.png');
+}
+
+.mc-smooth-sandstone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_sandstone_slab.png');
+}
+
+.mc-smooth-sandstone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_sandstone_stairs.png');
+}
+
+.mc-smooth-stone {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_stone.png');
+}
+
+.mc-smooth-stone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_smooth_stone_slab.png');
+}
+
+.mc-sniffer-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_sniffer_egg.png');
+}
+
+.mc-sniffer-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_sniffer_spawn_egg.png');
+}
+
+.mc-snort-pottery-sherd {
+  background-image: url('/vendor/mcicons/icons/minecraft_snort_pottery_sherd.png');
+}
+
+.mc-snout-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_snout_armor_trim_smithing_template.png');
+}
+
+.mc-snow {
+  background-image: url('/vendor/mcicons/icons/minecraft_snow.png');
+}
+
+.mc-snow-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_snow_block.png');
+}
+
+.mc-snow-golem-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_snow_golem_spawn_egg.png');
+}
+
+.mc-snowball {
+  background-image: url('/vendor/mcicons/icons/minecraft_snowball.png');
+}
+
+.mc-soul-campfire {
+  background-image: url('/vendor/mcicons/icons/minecraft_soul_campfire.png');
+}
+
+.mc-soul-lantern {
+  background-image: url('/vendor/mcicons/icons/minecraft_soul_lantern.png');
+}
+
+.mc-soul-sand {
+  background-image: url('/vendor/mcicons/icons/minecraft_soul_sand.png');
+}
+
+.mc-soul-soil {
+  background-image: url('/vendor/mcicons/icons/minecraft_soul_soil.png');
+}
+
+.mc-soul-torch {
+  background-image: url('/vendor/mcicons/icons/minecraft_soul_torch.png');
+}
+
+.mc-spawner {
+  background-image: url('/vendor/mcicons/icons/minecraft_spawner.png');
+}
+
+.mc-spectral-arrow {
+  background-image: url('/vendor/mcicons/icons/minecraft_spectral_arrow.png');
+}
+
+.mc-spider-eye {
+  background-image: url('/vendor/mcicons/icons/minecraft_spider_eye.png');
+}
+
+.mc-spider-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_spider_spawn_egg.png');
+}
+
+.mc-spire-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_spire_armor_trim_smithing_template.png');
+}
+
+.mc-splash-potion {
+  background-image: url('/vendor/mcicons/icons/minecraft_splash_potion.png');
+}
+
+.mc-sponge {
+  background-image: url('/vendor/mcicons/icons/minecraft_sponge.png');
+}
+
+.mc-spore-blossom {
+  background-image: url('/vendor/mcicons/icons/minecraft_spore_blossom.png');
+}
+
+.mc-spruce-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_boat.png');
+}
+
+.mc-spruce-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_button.png');
+}
+
+.mc-spruce-chest-boat {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_chest_boat.png');
+}
+
+.mc-spruce-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_door.png');
+}
+
+.mc-spruce-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_fence.png');
+}
+
+.mc-spruce-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_fence_gate.png');
+}
+
+.mc-spruce-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_hanging_sign.png');
+}
+
+.mc-spruce-leaves {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_leaves.png');
+}
+
+.mc-spruce-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_log.png');
+}
+
+.mc-spruce-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_planks.png');
+}
+
+.mc-spruce-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_pressure_plate.png');
+}
+
+.mc-spruce-sapling {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_sapling.png');
+}
+
+.mc-spruce-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_sign.png');
+}
+
+.mc-spruce-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_slab.png');
+}
+
+.mc-spruce-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_stairs.png');
+}
+
+.mc-spruce-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_trapdoor.png');
+}
+
+.mc-spruce-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_spruce_wood.png');
+}
+
+.mc-spyglass {
+  background-image: url('/vendor/mcicons/icons/minecraft_spyglass.png');
+}
+
+.mc-squid-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_squid_spawn_egg.png');
+}
+
+.mc-stick {
+  background-image: url('/vendor/mcicons/icons/minecraft_stick.png');
+}
+
+.mc-sticky-piston {
+  background-image: url('/vendor/mcicons/icons/minecraft_sticky_piston.png');
+}
+
+.mc-stone {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone.png');
+}
+
+.mc-stone-axe {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_axe.png');
+}
+
+.mc-stone-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_brick_slab.png');
+}
+
+.mc-stone-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_brick_stairs.png');
+}
+
+.mc-stone-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_brick_wall.png');
+}
+
+.mc-stone-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_bricks.png');
+}
+
+.mc-stone-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_button.png');
+}
+
+.mc-stone-hoe {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_hoe.png');
+}
+
+.mc-stone-pickaxe {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_pickaxe.png');
+}
+
+.mc-stone-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_pressure_plate.png');
+}
+
+.mc-stone-shovel {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_shovel.png');
+}
+
+.mc-stone-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_slab.png');
+}
+
+.mc-stone-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_stairs.png');
+}
+
+.mc-stone-sword {
+  background-image: url('/vendor/mcicons/icons/minecraft_stone_sword.png');
+}
+
+.mc-stonecutter {
+  background-image: url('/vendor/mcicons/icons/minecraft_stonecutter.png');
+}
+
+.mc-stray-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_stray_spawn_egg.png');
+}
+
+.mc-strider-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_strider_spawn_egg.png');
+}
+
+.mc-string {
+  background-image: url('/vendor/mcicons/icons/minecraft_string.png');
+}
+
+.mc-stripped-acacia-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_acacia_log.png');
+}
+
+.mc-stripped-acacia-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_acacia_wood.png');
+}
+
+.mc-stripped-bamboo-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_bamboo_block.png');
+}
+
+.mc-stripped-birch-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_birch_log.png');
+}
+
+.mc-stripped-birch-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_birch_wood.png');
+}
+
+.mc-stripped-cherry-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_cherry_log.png');
+}
+
+.mc-stripped-cherry-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_cherry_wood.png');
+}
+
+.mc-stripped-crimson-hyphae {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_crimson_hyphae.png');
+}
+
+.mc-stripped-crimson-stem {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_crimson_stem.png');
+}
+
+.mc-stripped-dark-oak-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_dark_oak_log.png');
+}
+
+.mc-stripped-dark-oak-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_dark_oak_wood.png');
+}
+
+.mc-stripped-jungle-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_jungle_log.png');
+}
+
+.mc-stripped-jungle-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_jungle_wood.png');
+}
+
+.mc-stripped-mangrove-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_mangrove_log.png');
+}
+
+.mc-stripped-mangrove-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_mangrove_wood.png');
+}
+
+.mc-stripped-oak-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_oak_log.png');
+}
+
+.mc-stripped-oak-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_oak_wood.png');
+}
+
+.mc-stripped-pale-oak-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_pale_oak_log.png');
+}
+
+.mc-stripped-pale-oak-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_pale_oak_wood.png');
+}
+
+.mc-stripped-spruce-log {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_spruce_log.png');
+}
+
+.mc-stripped-spruce-wood {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_spruce_wood.png');
+}
+
+.mc-stripped-warped-hyphae {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_warped_hyphae.png');
+}
+
+.mc-stripped-warped-stem {
+  background-image: url('/vendor/mcicons/icons/minecraft_stripped_warped_stem.png');
+}
+
+.mc-structure-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_structure_block.png');
+}
+
+.mc-structure-void {
+  background-image: url('/vendor/mcicons/icons/minecraft_structure_void.png');
+}
+
+.mc-sugar {
+  background-image: url('/vendor/mcicons/icons/minecraft_sugar.png');
+}
+
+.mc-sugar-cane {
+  background-image: url('/vendor/mcicons/icons/minecraft_sugar_cane.png');
+}
+
+.mc-sunflower {
+  background-image: url('/vendor/mcicons/icons/minecraft_sunflower.png');
+}
+
+.mc-suspicious-gravel {
+  background-image: url('/vendor/mcicons/icons/minecraft_suspicious_gravel.png');
+}
+
+.mc-suspicious-sand {
+  background-image: url('/vendor/mcicons/icons/minecraft_suspicious_sand.png');
+}
+
+.mc-suspicious-stew {
+  background-image: url('/vendor/mcicons/icons/minecraft_suspicious_stew.png');
+}
+
+.mc-sweet-berries {
+  background-image: url('/vendor/mcicons/icons/minecraft_sweet_berries.png');
+}
+
+.mc-tadpole-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_tadpole_bucket.png');
+}
+
+.mc-tadpole-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_tadpole_spawn_egg.png');
+}
+
+.mc-tall-dry-grass {
+  background-image: url('/vendor/mcicons/icons/minecraft_tall_dry_grass.png');
+}
+
+.mc-tall-grass {
+  background-image: url('/vendor/mcicons/icons/minecraft_tall_grass.png');
+}
+
+.mc-target {
+  background-image: url('/vendor/mcicons/icons/minecraft_target.png');
+}
+
+.mc-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_terracotta.png');
+}
+
+.mc-test-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_test_block.png');
+}
+
+.mc-test-instance-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_test_instance_block.png');
+}
+
+.mc-tide-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_tide_armor_trim_smithing_template.png');
+}
+
+.mc-tinted-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_tinted_glass.png');
+}
+
+.mc-tipped-arrow {
+  background-image: url('/vendor/mcicons/icons/minecraft_tipped_arrow.png');
+}
+
+.mc-tnt {
+  background-image: url('/vendor/mcicons/icons/minecraft_tnt.png');
+}
+
+.mc-tnt-minecart {
+  background-image: url('/vendor/mcicons/icons/minecraft_tnt_minecart.png');
+}
+
+.mc-torch {
+  background-image: url('/vendor/mcicons/icons/minecraft_torch.png');
+}
+
+.mc-torchflower {
+  background-image: url('/vendor/mcicons/icons/minecraft_torchflower.png');
+}
+
+.mc-torchflower-seeds {
+  background-image: url('/vendor/mcicons/icons/minecraft_torchflower_seeds.png');
+}
+
+.mc-totem-of-undying {
+  background-image: url('/vendor/mcicons/icons/minecraft_totem_of_undying.png');
+}
+
+.mc-trader-llama-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_trader_llama_spawn_egg.png');
+}
+
+.mc-trapped-chest {
+  background-image: url('/vendor/mcicons/icons/minecraft_trapped_chest.png');
+}
+
+.mc-trial-key {
+  background-image: url('/vendor/mcicons/icons/minecraft_trial_key.png');
+}
+
+.mc-trial-spawner {
+  background-image: url('/vendor/mcicons/icons/minecraft_trial_spawner.png');
+}
+
+.mc-trident {
+  background-image: url('/vendor/mcicons/icons/minecraft_trident.png');
+}
+
+.mc-tripwire-hook {
+  background-image: url('/vendor/mcicons/icons/minecraft_tripwire_hook.png');
+}
+
+.mc-tropical-fish {
+  background-image: url('/vendor/mcicons/icons/minecraft_tropical_fish.png');
+}
+
+.mc-tropical-fish-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_tropical_fish_bucket.png');
+}
+
+.mc-tropical-fish-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_tropical_fish_spawn_egg.png');
+}
+
+.mc-tube-coral {
+  background-image: url('/vendor/mcicons/icons/minecraft_tube_coral.png');
+}
+
+.mc-tube-coral-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_tube_coral_block.png');
+}
+
+.mc-tube-coral-fan {
+  background-image: url('/vendor/mcicons/icons/minecraft_tube_coral_fan.png');
+}
+
+.mc-tuff {
+  background-image: url('/vendor/mcicons/icons/minecraft_tuff.png');
+}
+
+.mc-tuff-brick-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_tuff_brick_slab.png');
+}
+
+.mc-tuff-brick-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_tuff_brick_stairs.png');
+}
+
+.mc-tuff-brick-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_tuff_brick_wall.png');
+}
+
+.mc-tuff-bricks {
+  background-image: url('/vendor/mcicons/icons/minecraft_tuff_bricks.png');
+}
+
+.mc-tuff-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_tuff_slab.png');
+}
+
+.mc-tuff-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_tuff_stairs.png');
+}
+
+.mc-tuff-wall {
+  background-image: url('/vendor/mcicons/icons/minecraft_tuff_wall.png');
+}
+
+.mc-turtle-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_turtle_egg.png');
+}
+
+.mc-turtle-helmet {
+  background-image: url('/vendor/mcicons/icons/minecraft_turtle_helmet.png');
+}
+
+.mc-turtle-scute {
+  background-image: url('/vendor/mcicons/icons/minecraft_turtle_scute.png');
+}
+
+.mc-turtle-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_turtle_spawn_egg.png');
+}
+
+.mc-twisting-vines {
+  background-image: url('/vendor/mcicons/icons/minecraft_twisting_vines.png');
+}
+
+.mc-vault {
+  background-image: url('/vendor/mcicons/icons/minecraft_vault.png');
+}
+
+.mc-verdant-froglight {
+  background-image: url('/vendor/mcicons/icons/minecraft_verdant_froglight.png');
+}
+
+.mc-vex-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_vex_armor_trim_smithing_template.png');
+}
+
+.mc-vex-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_vex_spawn_egg.png');
+}
+
+.mc-villager-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_villager_spawn_egg.png');
+}
+
+.mc-vindicator-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_vindicator_spawn_egg.png');
+}
+
+.mc-vine {
+  background-image: url('/vendor/mcicons/icons/minecraft_vine.png');
+}
+
+.mc-wandering-trader-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_wandering_trader_spawn_egg.png');
+}
+
+.mc-ward-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_ward_armor_trim_smithing_template.png');
+}
+
+.mc-warden-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_warden_spawn_egg.png');
+}
+
+.mc-warped-button {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_button.png');
+}
+
+.mc-warped-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_door.png');
+}
+
+.mc-warped-fence {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_fence.png');
+}
+
+.mc-warped-fence-gate {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_fence_gate.png');
+}
+
+.mc-warped-fungus {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_fungus.png');
+}
+
+.mc-warped-fungus-on-a-stick {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_fungus_on_a_stick.png');
+}
+
+.mc-warped-hanging-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_hanging_sign.png');
+}
+
+.mc-warped-hyphae {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_hyphae.png');
+}
+
+.mc-warped-nylium {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_nylium.png');
+}
+
+.mc-warped-planks {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_planks.png');
+}
+
+.mc-warped-pressure-plate {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_pressure_plate.png');
+}
+
+.mc-warped-roots {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_roots.png');
+}
+
+.mc-warped-sign {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_sign.png');
+}
+
+.mc-warped-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_slab.png');
+}
+
+.mc-warped-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_stairs.png');
+}
+
+.mc-warped-stem {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_stem.png');
+}
+
+.mc-warped-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_trapdoor.png');
+}
+
+.mc-warped-wart-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_warped_wart_block.png');
+}
+
+.mc-water-bucket {
+  background-image: url('/vendor/mcicons/icons/minecraft_water_bucket.png');
+}
+
+.mc-waxed-chiseled-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_chiseled_copper.png');
+}
+
+.mc-waxed-copper-block {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_copper_block.png');
+}
+
+.mc-waxed-copper-bulb {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_copper_bulb.png');
+}
+
+.mc-waxed-copper-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_copper_door.png');
+}
+
+.mc-waxed-copper-grate {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_copper_grate.png');
+}
+
+.mc-waxed-copper-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_copper_trapdoor.png');
+}
+
+.mc-waxed-cut-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_cut_copper.png');
+}
+
+.mc-waxed-cut-copper-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_cut_copper_slab.png');
+}
+
+.mc-waxed-cut-copper-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_cut_copper_stairs.png');
+}
+
+.mc-waxed-exposed-chiseled-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_chiseled_copper.png');
+}
+
+.mc-waxed-exposed-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_copper.png');
+}
+
+.mc-waxed-exposed-copper-bulb {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_copper_bulb.png');
+}
+
+.mc-waxed-exposed-copper-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_copper_door.png');
+}
+
+.mc-waxed-exposed-copper-grate {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_copper_grate.png');
+}
+
+.mc-waxed-exposed-copper-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_copper_trapdoor.png');
+}
+
+.mc-waxed-exposed-cut-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_cut_copper.png');
+}
+
+.mc-waxed-exposed-cut-copper-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_cut_copper_slab.png');
+}
+
+.mc-waxed-exposed-cut-copper-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_exposed_cut_copper_stairs.png');
+}
+
+.mc-waxed-oxidized-chiseled-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_chiseled_copper.png');
+}
+
+.mc-waxed-oxidized-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_copper.png');
+}
+
+.mc-waxed-oxidized-copper-bulb {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_copper_bulb.png');
+}
+
+.mc-waxed-oxidized-copper-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_copper_door.png');
+}
+
+.mc-waxed-oxidized-copper-grate {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_copper_grate.png');
+}
+
+.mc-waxed-oxidized-copper-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_copper_trapdoor.png');
+}
+
+.mc-waxed-oxidized-cut-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_cut_copper.png');
+}
+
+.mc-waxed-oxidized-cut-copper-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_cut_copper_slab.png');
+}
+
+.mc-waxed-oxidized-cut-copper-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_oxidized_cut_copper_stairs.png');
+}
+
+.mc-waxed-weathered-chiseled-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_chiseled_copper.png');
+}
+
+.mc-waxed-weathered-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_copper.png');
+}
+
+.mc-waxed-weathered-copper-bulb {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_copper_bulb.png');
+}
+
+.mc-waxed-weathered-copper-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_copper_door.png');
+}
+
+.mc-waxed-weathered-copper-grate {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_copper_grate.png');
+}
+
+.mc-waxed-weathered-copper-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_copper_trapdoor.png');
+}
+
+.mc-waxed-weathered-cut-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_cut_copper.png');
+}
+
+.mc-waxed-weathered-cut-copper-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_cut_copper_slab.png');
+}
+
+.mc-waxed-weathered-cut-copper-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_waxed_weathered_cut_copper_stairs.png');
+}
+
+.mc-wayfinder-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_wayfinder_armor_trim_smithing_template.png');
+}
+
+.mc-weathered-chiseled-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_chiseled_copper.png');
+}
+
+.mc-weathered-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_copper.png');
+}
+
+.mc-weathered-copper-bulb {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_copper_bulb.png');
+}
+
+.mc-weathered-copper-door {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_copper_door.png');
+}
+
+.mc-weathered-copper-grate {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_copper_grate.png');
+}
+
+.mc-weathered-copper-trapdoor {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_copper_trapdoor.png');
+}
+
+.mc-weathered-cut-copper {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_cut_copper.png');
+}
+
+.mc-weathered-cut-copper-slab {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_cut_copper_slab.png');
+}
+
+.mc-weathered-cut-copper-stairs {
+  background-image: url('/vendor/mcicons/icons/minecraft_weathered_cut_copper_stairs.png');
+}
+
+.mc-weeping-vines {
+  background-image: url('/vendor/mcicons/icons/minecraft_weeping_vines.png');
+}
+
+.mc-wet-sponge {
+  background-image: url('/vendor/mcicons/icons/minecraft_wet_sponge.png');
+}
+
+.mc-wheat {
+  background-image: url('/vendor/mcicons/icons/minecraft_wheat.png');
+}
+
+.mc-wheat-seeds {
+  background-image: url('/vendor/mcicons/icons/minecraft_wheat_seeds.png');
+}
+
+.mc-white-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_banner.png');
+}
+
+.mc-white-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_bed.png');
+}
+
+.mc-white-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_bundle.png');
+}
+
+.mc-white-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_candle.png');
+}
+
+.mc-white-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_carpet.png');
+}
+
+.mc-white-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_concrete.png');
+}
+
+.mc-white-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_concrete_powder.png');
+}
+
+.mc-white-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_dye.png');
+}
+
+.mc-white-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_glazed_terracotta.png');
+}
+
+.mc-white-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_shulker_box.png');
+}
+
+.mc-white-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_stained_glass.png');
+}
+
+.mc-white-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_stained_glass_pane.png');
+}
+
+.mc-white-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_terracotta.png');
+}
+
+.mc-white-tulip {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_tulip.png');
+}
+
+.mc-white-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_white_wool.png');
+}
+
+.mc-wild-armor-trim-smithing-template {
+  background-image: url('/vendor/mcicons/icons/minecraft_wild_armor_trim_smithing_template.png');
+}
+
+.mc-wildflowers {
+  background-image: url('/vendor/mcicons/icons/minecraft_wildflowers.png');
+}
+
+.mc-wind-charge {
+  background-image: url('/vendor/mcicons/icons/minecraft_wind_charge.png');
+}
+
+.mc-witch-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_witch_spawn_egg.png');
+}
+
+.mc-wither-rose {
+  background-image: url('/vendor/mcicons/icons/minecraft_wither_rose.png');
+}
+
+.mc-wither-skeleton-skull {
+  background-image: url('/vendor/mcicons/icons/minecraft_wither_skeleton_skull.png');
+}
+
+.mc-wither-skeleton-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_wither_skeleton_spawn_egg.png');
+}
+
+.mc-wither-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_wither_spawn_egg.png');
+}
+
+.mc-wolf-armor {
+  background-image: url('/vendor/mcicons/icons/minecraft_wolf_armor.png');
+}
+
+.mc-wolf-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_wolf_spawn_egg.png');
+}
+
+.mc-wooden-axe {
+  background-image: url('/vendor/mcicons/icons/minecraft_wooden_axe.png');
+}
+
+.mc-wooden-hoe {
+  background-image: url('/vendor/mcicons/icons/minecraft_wooden_hoe.png');
+}
+
+.mc-wooden-pickaxe {
+  background-image: url('/vendor/mcicons/icons/minecraft_wooden_pickaxe.png');
+}
+
+.mc-wooden-shovel {
+  background-image: url('/vendor/mcicons/icons/minecraft_wooden_shovel.png');
+}
+
+.mc-wooden-sword {
+  background-image: url('/vendor/mcicons/icons/minecraft_wooden_sword.png');
+}
+
+.mc-writable-book {
+  background-image: url('/vendor/mcicons/icons/minecraft_writable_book.png');
+}
+
+.mc-written-book {
+  background-image: url('/vendor/mcicons/icons/minecraft_written_book.png');
+}
+
+.mc-yellow-banner {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_banner.png');
+}
+
+.mc-yellow-bed {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_bed.png');
+}
+
+.mc-yellow-bundle {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_bundle.png');
+}
+
+.mc-yellow-candle {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_candle.png');
+}
+
+.mc-yellow-carpet {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_carpet.png');
+}
+
+.mc-yellow-concrete {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_concrete.png');
+}
+
+.mc-yellow-concrete-powder {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_concrete_powder.png');
+}
+
+.mc-yellow-dye {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_dye.png');
+}
+
+.mc-yellow-glazed-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_glazed_terracotta.png');
+}
+
+.mc-yellow-shulker-box {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_shulker_box.png');
+}
+
+.mc-yellow-stained-glass {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_stained_glass.png');
+}
+
+.mc-yellow-stained-glass-pane {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_stained_glass_pane.png');
+}
+
+.mc-yellow-terracotta {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_terracotta.png');
+}
+
+.mc-yellow-wool {
+  background-image: url('/vendor/mcicons/icons/minecraft_yellow_wool.png');
+}
+
+.mc-zoglin-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_zoglin_spawn_egg.png');
+}
+
+.mc-zombie-head {
+  background-image: url('/vendor/mcicons/icons/minecraft_zombie_head.png');
+}
+
+.mc-zombie-horse-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_zombie_horse_spawn_egg.png');
+}
+
+.mc-zombie-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_zombie_spawn_egg.png');
+}
+
+.mc-zombie-villager-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_zombie_villager_spawn_egg.png');
+}
+
+.mc-zombified-piglin-spawn-egg {
+  background-image: url('/vendor/mcicons/icons/minecraft_zombified_piglin_spawn_egg.png');
+}
